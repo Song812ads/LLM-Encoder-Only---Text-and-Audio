@@ -1,0 +1,1954 @@
+0, Vui lòng tắt hết các đèn.
+0, Vui lòng tắt hết đèn.
+0, Xin hãy tắt hết đèn.
+0, Tắt hết đèn giúp tôi.
+0, Làm ơn tắt hết đèn.
+0, Đề nghị tắt hết đèn.
+0, Bạn có thể tắt hết đèn không?
+0, Vui lòng tắt hết đèn giúp tôi.
+0, Hãy tắt hết đèn.
+0, Làm ơn tắt toàn bộ đèn.
+0, Tắt toàn bộ đèn được không?
+0, Vui lòng tắt hết LED.
+0, Xin hãy tắt hết LED.
+0, Tắt hết LED giúp tôi.
+0, Làm ơn tắt hết LED.
+0, Đề nghị tắt hết LED.
+0, Bạn có thể tắt hết LED không?
+0, Vui lòng tắt hết LED giúp tôi.
+0, Hãy tắt hết LED.
+0, Làm ơn tắt toàn bộ LED.
+0, Tắt toàn bộ LED được không?
+0, Vui lòng tắt toàn bộ LED.
+0, Xin hãy tắt toàn bộ LED.
+0, Tắt toàn bộ LED giúp tôi.
+0, Làm ơn tắt toàn bộ LED.
+0, Đề nghị tắt toàn bộ LED.
+0, Bạn có thể tắt toàn bộ LED không?
+0, Vui lòng tắt toàn bộ LED giúp tôi.
+0, Vui lòng tắt hết LED.
+0, Xin hãy tắt hết LED.
+0, Tắt hết LED giúp tôi.
+0, Làm ơn tắt hết LED.
+0, Đề nghị tắt hết LED.
+0, Bạn có thể tắt hết LED không?
+0, Vui lòng tắt hết LED giúp tôi.
+0, Hãy tắt hết LED.
+0, Làm ơn tắt toàn bộ LED.
+0, Tắt toàn bộ LED được không?
+0, Vui lòng tắt toàn bộ LED.
+0, Xin hãy tắt toàn bộ LED.
+0, Tắt toàn bộ LED giúp tôi.
+0, Làm ơn tắt toàn bộ LED.
+0, Đề nghị tắt toàn bộ LED.
+0, Bạn có thể tắt toàn bộ LED không?
+0, Vui lòng tắt toàn bộ LED giú
+0, Hãy tắt toàn bộ LED.
+0, Làm ơn tắt hết LED.
+0, Tắt hết LED được không?
+0, Vui lòng tắt tất cả LED.
+0, Xin hãy tắt tất cả LED.
+0, Tắt tất cả LED giúp tôi.
+0, Làm ơn tắt tất cả LED.
+0, Đề nghị tắt tất cả LED.
+0, Bạn có thể tắt tất cả LED không?
+0, Vui lòng tắt tất cả LED giúp tôi.
+0, Tắt hết LED được không?
+0, Vui lòng tắt tất cả LED.
+0, Xin hãy tắt tất cả LED.
+0, Tắt tất cả LED giúp tôi.
+0, Làm ơn tắt tất cả LED.
+0, Đề nghị tắt tất cả LED.
+0, Bạn có thể tắt tất cả LED không?
+0, Vui lòng tắt tất cả LED giúp tôi.
+0, Hãy tắt tất cả LED.
+0, Làm ơn tắt toàn bộ LED.
+0, Tắt toàn bộ LED được không?
+0, Vui lòng tắt tất cả đèn.
+0, Xin hãy tắt tất cả đèn.
+0, Tắt tất cả đèn giúp tôi.
+0, Làm ơn tắt tất cả đèn.
+0, Đề nghị tắt tất cả đèn.
+0, Bạn có thể tắt tất cả đèn không?
+0, Vui lòng tắt tất cả đèn giúp tôi.
+0, Hãy tắt tất cả đèn.
+0, Làm ơn tắt toàn bộ đèn.
+0, Tắt toàn bộ đèn được không?
+0, Vui lòng tắt toàn bộ đèn.
+0, Xin hãy tắt toàn bộ đèn.
+0, Tắt toàn bộ đèn giúp tôi.
+0, Làm ơn tắt toàn bộ đèn.
+0, Đề nghị tắt toàn bộ đèn.
+0, Bạn có thể tắt toàn bộ đèn không?
+0, Vui lòng tắt toàn bộ đèn giúp tôi.
+0, Hãy tắt toàn bộ đèn.
+0, Làm ơn tắt hết đèn.
+0, Tắt hết đèn được không?
+0, Hãy tắt toàn bộ đèn đi.
+0, Xin vui lòng tắt tất cả các đèn.
+0, Vui lòng tắt tất cả đèn.
+0, Làm ơn tắt hết đèn.
+0, Hãy tắt tất cả đèn.
+0, Đề nghị tắt hết các đèn.
+0, Tắt hết tất cả đèn đi.
+0, Làm ơn tắt hết đèn.
+0, Tắt hết đèn được không?
+0,  tắt toàn bộ đèn đi.
+0, Xin vui lòng tắt tất cả các đèn.
+0, Vui lòng tắt tất cả đèn.
+0, Làm ơn tắt hết đèn.
+0,  tắt tất cả đèn.
+0, Đề nghị tắt hết các đèn.
+0, Tắt hết tất cả đèn đi.
+0, Làm ơn tắt hết đèn.
+0, Tắt hết đèn được không?
+0,  tắt toàn bộ đèn đi.
+0, Xin vui lòng tắt tất cả các đèn.
+0, Vui lòng tắt tất cả đèn.
+0, Làm ơn tắt hết đèn.
+0,  tắt tất cả đèn.
+0, Đề nghị tắt hết các đèn.
+0, Tắt hết tất cả đèn đi.
+0, Xin  tắt toàn bộ đèn.
+0, Tắt toàn bộ các đèn giùm.
+0,  tắt ba đèn số 1, 2, 3.
+0, Vui lòng tắt đèn 1, 2  3.
+0, Làm ơn tắt các đèn 1, 2, 3.
+0, Xin  tắt đèn số 1, 2  3.
+0, Đề nghị tắt ba đèn số 1, 2, 3.
+0, Vui lòng tắt cả ba đèn 1, 2  3.
+0,  tắt đèn số 1, 2, 3 đi.
+0, Làm ơn tắt ba đèn 1, 2  3.
+0, Xin vui lòng tắt đèn 1, 2  3.
+0,  tắt đèn 1, 2, 3 giùm.
+0, 1 2 3 tắt
+0, 1 2 3 không hoạt động !
+0,  tắt hết tất cả nguồn sáng
+0, Vui lòng tắt hết đèn một, đèn hai  đèn ba.
+0,  đảm bảo tắt đèn một, đèn hai  đèn ba.
+0, Làm ơn tắt đèn một, đèn hai  đèn ba.
+0, Xin  tắt hết đèn số một, số hai  số ba.
+0, Đề nghị tắt hết đèn một, đèn hai  đèn ba.
+0, Vui lòng tắt cả đèn một, đèn hai  đèn ba.
+0,  chắc chắn rằng đèn một, đèn hai  đèn ba đã được tắt.
+0, Để tiết kiệm điện, xin  tắt đèn một, đèn hai  đèn ba.
+0, Trước khi ra khỏi phòng, vui lòng tắt đèn một, đèn hai  đèn ba.
+0,  tắt đèn một, đèn hai  đèn ba trước khi rời đi.
+0, Làm ơn  tắt đèn một, hai  ba.
+0, Xin vui lòng đảm bảo rằng bạn đã tắt đèn một, hai  ba.
+0, Vui lòng tắt cả đèn một, hai  ba trước khi ra khỏi phòng.
+0, Đề nghị tắt đèn một, hai  ba để tiết kiệm năng lượng.
+0,  đảm bảo rằng mọi người đã tắt đèn một, hai  ba trước khi rời khỏi.
+0, Trước khi đi ngủ, xin  tắt đèn một, hai  ba để tạo không gian yên tĩnh.
+0, Xin  nhớ kiểm tra  tắt đèn một, hai  ba trước khi rời khỏi phòng.
+0, Để tránh lãng phí điện, vui lòng tắt đèn một, hai  ba khi không cần sử dụng.
+0,  chắc chắn rằng bạn đã tắt toàn bộ đèn một, hai  ba trước khi đi ra ngoài.
+0, Làm ơn đảm bảo rằng đèn một, hai  ba đều đã được tắt để tránh lãng phí năng lượng.
+0, tắt hết đèn đi trả lại tâm trí đây
+0, hết tắt
+0, tắt hết
+0, Led 1 2  3 tắt
+0, Led 1  led 2  led 3 tắt
+0, Led 1, led 2  led 3 không hoạt động
+0, Led 1, 2, 3 không có ánh sáng
+0, 1 2 3 tắt
+0, 1 2 and 3 tắt 
+0, Led tắt hết
+0, hết of led are tắt
+0, Đèn LED 1, 2, 3 không sáng lên  không hoạt động.
+0, Các đèn LED 1, 2, 3 không phản ứng  không có hiển thị sáng.
+0, LED 1, 2, 3 không hoạt động  không có tín hiệu sáng.
+0, Không có ánh sáng nào được phát ra từ LED 1, 2, 3  chúng không hoạt động.
+0, Đèn LED 1, 2, 3 không có dấu hiệu hoạt động  không sáng lên.
+0, Các đèn LED 1, 2, 3 đều ở trạng thái không hoạt động  không phản ứng.
+0, Không có ánh sáng nào được phát ra từ LED 1, 2, 3  chúng không phản ứng với bất kỳ tác động nào.
+0, LED 1, 2, 3 không sáng  không có dấu hiệu vận hành.
+0, Các đèn LED 1, 2, 3 không có hiệu ứng sáng  không hoạt động.
+0, LED 1, 2, 3 không hoạt động, không sáng lên  không có bất kỳ sự phản ứng nào.
+0, LED 1, 2, 3 đã được tắt.
+0, Đèn LED 1, 2, 3 đã ngừng hoạt động.
+0, Tất cả các đèn LED 1, 2, 3 đều đang trong trạng thái tắt.
+0, Không có ánh sáng nào phát ra từ LED 1, 2, 3 vì chúng đã bị tắt.
+0, LED 1, 2, 3 đã được ngắt nguồn.
+0, Các đèn LED 1, 2, 3 đã ngưng hoạt động  không còn sáng lên.
+0, Đèn LED 1, 2, 3 không hoạt động  không có tín hiệu sáng.
+0, LED 1, 2, 3 đã được tắt để tiết kiệm năng lượng.
+0, Không có hiệu ứng sáng nào từ LED 1, 2, 3 vì chúng đã được tắt.
+0, Các đèn LED 1, 2, 3 đã được tắt để tạo ra một không gian yên tĩnh.
+0, LED 1, LED 2  LED 3 đều tắt  không phát ra ánh sáng.
+0, Cả ba đèn LED 1, LED 2  LED 3 đều không hoạt động  chúng đang trong tình trạng tối tăm.
+0, LED 1, LED 2  LED 3 đều đã ngừng hoạt động  không có hiển thị sáng.
+0, Không có ánh sáng nào được phát ra từ LED 1, LED 2  LED 3 vì chúng đều tắt.
+0, LED 1, LED 2  LED 3 đều không sáng lên  không có dấu hiệu hoạt động.
+0, Cả ba đèn LED 1, LED 2  LED 3 đều không hoạt động  không có tín hiệu sáng.
+0, LED 1, LED 2  LED 3 đều không phản ứng  không có sự sáng lên.
+0, Không có hiệu ứng sáng nào từ LED 1, LED 2  LED 3 vì chúng đều đã tắt.
+0, LED 1, LED 2  LED 3 đều đã tắt để tạo ra một không gian hoàn toàn tối tăm.
+0, Cả ba đèn LED 1, LED 2  LED 3 đều không có ánh sáng  không hoạt động.
+0, Tất cả LED 1, LED 2  LED 3 đều không phát ra ánh sáng  không hoạt động.
+0, LED 1, LED 2  LED 3 không sáng lên  đang trong trạng thái tắt.
+0, Cả ba đèn LED 1, LED 2  LED 3 đều không hoạt động  không có sự phản ứng.
+0, Không có ánh sáng nào được phát ra từ LED 1, LED 2  LED 3 vì chúng không hoạt động.
+0, LED 1, LED 2  LED 3 không phản ứng  không có sự sáng lên.
+0, Cả ba đèn LED 1, LED 2  LED 3 đều không hoạt động  không có tín hiệu sáng.
+0, LED 1, LED 2  LED 3 đều không có ánh sáng  không hoạt động.
+0, Không có hiệu ứng sáng nào từ LED 1, LED 2  LED 3 vì chúng đã bị tắt.
+0, LED 1, LED 2  LED 3 đều đã ngừng hoạt động  không có hiển thị sáng.
+0, Cả ba đèn LED 1, LED 2  LED 3 đều không sáng lên  không có sự phản ứng.
+1, 1 sáng
+1, Led 1 sáng
+1, Đèn 1 sáng
+1, Chỉ đèn 1 sáng
+1, Đèn số 1 sáng
+1, Bật LED 1
+1, Bật đèn một
+1, Sáng LED 1
+1, Đèn 1 đã được bật sáng.
+1, Ánh sáng từ đèn 1 đã phát ra.
+1, Đèn 1 đang hoạt động  chiếu sáng.
+1, Đèn 1 đã được kích hoạt  đang sáng.
+1, Đèn 1 hiện đang ở trạng thái bật.
+1, Ánh sáng từ đèn 1 đang chiếu rọi.
+1, Đèn 1 đã được bật  phát ra ánh sáng.
+1, Đèn 1 đang hoạt động  tỏa sáng.
+1, Đèn 1 đã được kích hoạt  đang chiếu sáng.
+1, Ánh sáng từ đèn 1 đang rải rác trong không gian.
+1, Đèn 1 đã được bật  sáng lên.
+1, Ánh sáng từ đèn 1 đang tỏa ra.
+1, Đèn 1 đã được kích hoạt  đang chiếu sáng.
+1, Đèn 1 hiện đang ở trạng thái bật  phát ra ánh sáng.
+1, Đèn 1 đang hoạt động  chiếu rọi ánh sáng.
+1, Ánh sáng từ đèn 1 đã bắt đầu lan tỏa.
+1, Đèn 1 đang sáng lên  phát ra ánh sáng trong không gian.
+1, Đèn 1 đã được kích hoạt  tỏa ra ánh sáng.
+1, Ánh sáng từ đèn 1 đang chiếu sáng  tạo ra không gian sáng.
+1, Đèn 1 đã được bật  tỏa ra ánh sáng rực rỡ.
+1, Ánh sáng từ đèn 1 đang lan tỏa khắp không gian.
+1, Đèn 1 đang hoạt động  phát ra ánh sáng sắc nét.
+1, Đèn 1 đã được kích hoạt  chiếu sáng mạnh mẽ.
+1, Ánh sáng từ đèn 1 đang chiếu rọi  làm sáng bóng mọi góc của không gian.
+1, Vui lòng mở LED 1.
+1, Xin  bật LED 1.
+1, Mở LED 1 lên giúp tôi.
+1, Làm ơn bật LED 1.
+1, Đề nghị mở LED 1.
+1, Bạn có thể mở LED 1 không?
+1, Vui lòng bật LED 1 giúp tôi.
+1,  mở LED 1 lên.
+1, Nhờ bạn mở LED 1.
+1, Làm ơn mở toàn bộ LED 1.
+1, Mở LED 1 lên đi.
+1, Bạn bật LED 1 được không?
+1, Vui lòng kích hoạt LED 1.
+1, Mở LED 1 ngay bây giờ.
+1, Xin  mở LED 1 ngay.
+1, Bạn có thể bật LED 1 giúp tôi không?
+1,  bật LED 1 đi.
+1, Nhờ bạn bật LED 1 lên.
+1, Đề nghị bạn mở LED 1.
+1, Làm ơn khởi động LED 1.
+1, Vui lòng mở đèn 1.
+1, Xin  bật đèn 1.
+1, Mở đèn 1 lên giúp tôi.
+1, Làm ơn bật đèn 1.
+1, Đề nghị mở đèn 1.
+1, Bạn có thể mở đèn 1 không?
+1, Vui lòng bật đèn 1 giúp tôi.
+1,  mở đèn 1 lên.
+1, Nhờ bạn mở đèn 1.
+1, Làm ơn mở toàn bộ đèn 1.
+1, Mở đèn 1 lên đi.
+1, Bạn bật đèn 1 được không?
+1, Vui lòng kích hoạt đèn 1.
+1, Mở đèn 1 ngay bây giờ.
+1, Xin  mở đèn 1 ngay.
+1, Bạn có thể bật đèn 1 giúp tôi không?
+1,  bật đèn 1 đi.
+1, Nhờ bạn bật đèn 1 lên.
+1, Đề nghị bạn mở đèn 1.
+1, Làm ơn khởi động đèn 1.
+1, Đèn 1 đang sáng lên mạnh mẽ, làm rộng diện tích ánh sáng trong căn phòng.
+1, Đèn 1 đã được bật  tỏa ra ánh sáng dịu dàng.
+1, Ánh sáng từ đèn 1 đang tạo ra một không gian ấm áp  thoải mái.
+1, Đèn 1 đang hoạt động  phát ra ánh sáng dễ chịu.
+1, Đèn 1 đã được kích hoạt  tạo ra một bầu không khí sáng sủa.
+1, Ánh sáng từ đèn 1 đang lan tỏa  làm sáng rộng không gian xung quanh.
+1, 1 sáng
+1, Đèn LED 1 đã sáng lên  đã được kích hoạt.
+1, Đèn LED 1 đã được bật  đang tỏa sáng.
+1, Đèn LED 1 hiện đang hoạt động  phát ra ánh sáng.
+1, Đèn LED 1 đã được kích hoạt  đang chiếu sáng.
+1, Ánh sáng từ đèn LED 1 đã được bật  rải rác trong không gian.
+1, Đèn LED 1 đang tỏa ra ánh sáng sau khi được kích hoạt.
+1, Đèn LED 1 đã được bật  đang sáng lên.
+1, Đèn LED 1 đã được kích hoạt  phát ra ánh sáng sáng sủa.
+1, Đèn LED 1 đang hoạt động  chiếu sáng mạnh mẽ.
+1, Ánh sáng từ đèn LED 1 đang lan tỏa  tạo ra không gian sáng.
+1, Đèn LED 1 đã được kích hoạt  tỏa ra ánh sáng ấm áp.
+1, Đèn LED 1 đã được bật  phát ra ánh sáng rực rỡ.
+1, Đèn LED 1 đã được kích hoạt  tạo ra một không gian sáng sủa.
+1, Ánh sáng từ đèn LED 1 đang chiếu sáng  làm sáng rộng không gian.
+1, Đèn LED 1 đang tỏa ra ánh sáng  tạo ra một không gian ấm áp.
+1, Đèn LED 1 đã được bật  tạo ra một không gian sáng sủa.
+1, Ánh sáng từ đèn LED 1 đang lan tỏa  làm sáng rộng không gian xung quanh.
+1, Đèn LED 1 đã được kích hoạt  tỏa ra ánh sáng dịu dàng.
+1, Đèn LED 1 đang hoạt động  tạo ra một không gian sáng sủa  ấm áp.
+1, Ánh sáng từ đèn LED 1 đang chiếu rọi  làm sáng rộng không gian xung quanh.
+1, Đèn 1 đang phát sáng  hoạt động bình thường.
+1, Ánh sáng từ đèn 1 đang tỏa ra, cho thấy nó đang hoạt động.
+1, Đèn 1 đang sáng lên, cho thấy nó đang hoạt động.
+1, Đèn 1 đã được mở  đang tỏa ra ánh sáng.
+1, Ánh sáng từ đèn 1 đang chiếu rọi, chỉ ra rằng nó đang hoạt động.
+1, Đèn 1 đang tỏa ra ánh sáng mạnh mẽ, cho thấy nó đang hoạt động.
+1, Đèn 1 đã được kích hoạt  đang phát sáng.
+1, Ánh sáng từ đèn 1 đang rải rác trong không gian, chỉ ra rằng nó đang hoạt động.
+1, Đèn 1 đang tỏa ra ánh sáng ấm áp, chỉ ra rằng nó đang hoạt động.
+1, Đèn 1 đã được bật  đang làm sáng không gian xung quanh.
+1, Mở đèn số 1 
+1, Một bật
+1, First bật
+1, 1 is being used
+1, 1
+2, LED 2 bật
+2, Chỉ đèn 2 sáng
+2, Đèn 2 sáng
+2, Bật đèn hai
+2, Đèn 2 đã được bật
+2, Kích hoạt đèn hai
+2, 2 
+2, 2 bật
+3, 3 bật
+3, 3 sáng 
+3, 3
+3, Đèn 3 sáng 
+3, Thắp sáng đèn 3 nào
+3,  thắp sáng đèn 3
+3, Có thể thắp sáng đèn 3 đươc không 
+3, Cho tôi ít ánh sáng từ đèn ba nào
+3, 3 
+3, 3 bật 
+3, 3 sáng
+4, LED 1  2 đều đã được kích hoạt  sáng lên
+4, Cả hai đèn ở vị trí 1  2 đều đã được bật lên
+4, Đèn số 1  2 đều sáng
+4, LED ở vị trí số một  hai đều đã được thắp sáng
+4, 1 2 bật
+4, 1 2
+4, 1 2 sáng
+4, Đèn 1  2  sáng
+6, Led 2  3 bật
+6, Bật led 2 and 3
+6, LED 2 and 3 are bật
+6, Bật cả hai LED 2  3
+6, LED 2  3 được bật
+6, Turn bật led 2 and 3
+6, Bật led 2  3 lên
+6, LED 2 and 3 đang được bật sáng
+6, Kích hoạt led 2  3
+6, Chiếu sáng led 2  3
+6, Light up led 2 and 3
+6, Bật đèn led 2  3
+6, Kích hoạt led 2  3
+6, Power bật led 2 and 3
+6, Mở nguồn cho led 2  3
+6, Bật led 2  3
+6, Bật led 2  3
+6, Làm sáng led 2  3
+6, Kích hoạt cả hai LED 2  LED 3
+6, Nạp năng lượng cho led 2  3
+6, Kích hoạt cả hai đèn 2  ba
+6, Led 2  ba bật
+6, 2 3 bật 
+6, 2 3 sáng 
+6, 2 3
+6, Mở đèn 2  đèn 3 
+6, Led 2 3 bật
+6, Bật đèn 2  3 cùng lúc
+5, 1 3 bật 
+5, 1 3 sáng
+5, 1 3
+5, Led 1 3 bật
+5, Led 1 and led 3 bật
+7, hết bật
+7, 1 2 3
+7, bật hết
+7, Bật đèn số 1, 2  3
+7, Bật tất cả đèn lên
+7, Kích hoạt đèn 1, 2  3
+7, Mở toàn bộ
+7, 1 2 3 bật 
+7, Led 1 2 3 bật
+7, Go bật 1 2 3 
+7, Cho tất cả sáng lên
+7, 1 2 3 hoạt động
+7, 1 2 3 lên đèn
+7, 1 2 3 sáng
+7, Toàn bộ sáng
+0, Vui lòng tắt hết các đèn.
+0,  tắt toàn bộ đèn đi.
+0, Xin vui lòng tắt tất cả các đèn.
+0, Vui lòng tắt tất cả đèn.
+0, Làm ơn tắt hết đèn.
+0,  tắt tất cả đèn.
+0, Đề nghị tắt hết các đèn.
+0, Tắt hết tất cả đèn đi.
+0, Xin  tắt toàn bộ đèn.
+0, Tắt toàn bộ các đèn giùm.
+0,  tắt ba đèn số 1, 2, 3.
+0, Vui lòng tắt đèn 1, 2  3.
+0, Làm ơn tắt các đèn 1, 2, 3.
+0, Xin  tắt đèn số 1, 2  3.
+0, Đề nghị tắt ba đèn số 1, 2, 3.
+0, Vui lòng tắt cả ba đèn 1, 2  3.
+0,  tắt đèn số 1, 2, 3 đi.
+0, Làm ơn tắt ba đèn 1, 2  3.
+0, Xin vui lòng tắt đèn 1, 2  3.
+0,  tắt đèn 1, 2, 3 giùm.
+0, 1 2 3 tắt
+0, 1 2 3 không hoạt động !
+0,  tắt hết tất cả nguồn sáng
+0, Vui lòng tắt hết đèn một, đèn hai  đèn ba.
+0,  đảm bảo tắt đèn một, đèn hai  đèn ba.
+0, Làm ơn tắt đèn một, đèn hai  đèn ba.
+0, Xin  tắt hết đèn số một, số hai  số ba.
+0, Đề nghị tắt hết đèn một, đèn hai  đèn ba.
+0, Vui lòng tắt cả đèn một, đèn hai  đèn ba.
+0,  chắc chắn rằng đèn một, đèn hai  đèn ba đã được tắt.
+0, Để tiết kiệm điện, xin  tắt đèn một, đèn hai  đèn ba.
+0, Trước khi ra khỏi phòng, vui lòng tắt đèn một, đèn hai  đèn ba.
+0,  tắt đèn một, đèn hai  đèn ba trước khi rời đi.
+0, Làm ơn  tắt đèn một, hai  ba.
+0, Xin vui lòng đảm bảo rằng bạn đã tắt đèn một, hai  ba.
+0, Vui lòng tắt cả đèn một, hai  ba trước khi ra khỏi phòng.
+0, Đề nghị tắt đèn một, hai  ba để tiết kiệm năng lượng.
+0,  đảm bảo rằng mọi người đã tắt đèn một, hai  ba trước khi rời khỏi.
+0, Trước khi đi ngủ, xin  tắt đèn một, hai  ba để tạo không gian yên tĩnh.
+0, Xin  nhớ kiểm tra  tắt đèn một, hai  ba trước khi rời khỏi phòng.
+0, Để tránh lãng phí điện, vui lòng tắt đèn một, hai  ba khi không cần sử dụng.
+0,  chắc chắn rằng bạn đã tắt toàn bộ đèn một, hai  ba trước khi đi ra ngoài.
+0, Làm ơn đảm bảo rằng đèn một, hai  ba đều đã được tắt để tránh lãng phí năng lượng.
+0,  chắc chắn rằng mọi nguồn sáng đều đã được tắt để không còn ánh sáng nào.
+0, Xin vui lòng đảm bảo rằng không còn bất kỳ đèn nào đang sáng lên để tạo ra không gian hoàn toàn tối.
+0, Đề nghị kiểm tra kỹ lưỡng  tắt toàn bộ các nguồn ánh sáng để đảm bảo không còn chút ánh sáng nào tồn tại.
+0, Xin  chắc chắn rằng mọi nguồn sáng đã được tắt hết để không còn chút ánh sáng nào lẻ loi.
+0, Làm ơn kiểm tra  tắt toàn bộ ánh sáng để tạo ra một không gian hoàn toàn tối tăm.
+0, Đảm bảo rằng không còn bất kỳ đèn nào còn sáng để đảm bảo môi trường hoàn toàn tối.
+0, Vui lòng đảm bảo rằng không còn bất kỳ nguồn ánh sáng nào tồn tại để tạo ra một môi trường tối tăm hoàn toàn.
+0,  kiểm tra  đảm bảo rằng mọi nguồn sáng đều đã được tắt hết để không còn chút ánh sáng nào loé lên.
+0, Xin  đảm bảo rằng mọi nguồn sáng đã được tắt để không còn bất kỳ ánh sáng nào còn lại.
+0, tắt hết đèn đi trả lại tâm trí đây
+0, hết tắt
+0, tắt hết
+0, Led 1 2  3 tắt
+0, Led 1  led 2  led 3 tắt
+0, Led 1, led 2  led 3 không hoạt động
+0, Led 1, 2, 3 không có ánh sáng
+0, 1 2 3 tắt
+0, 1 2 and 3 tắt 
+0, Led tắt hết
+0, hết of led are tắt
+0, Đèn LED 1, 2, 3 không sáng lên  không hoạt động.
+0, Các đèn LED 1, 2, 3 không phản ứng  không có hiển thị sáng.
+0, LED 1, 2, 3 không hoạt động  không có tín hiệu sáng.
+0, Không có ánh sáng nào được phát ra từ LED 1, 2, 3  chúng không hoạt động.
+0, Đèn LED 1, 2, 3 không có dấu hiệu hoạt động  không sáng lên.
+0, Các đèn LED 1, 2, 3 đều ở trạng thái không hoạt động  không phản ứng.
+0, Không có ánh sáng nào được phát ra từ LED 1, 2, 3  chúng không phản ứng với bất kỳ tác động nào.
+0, LED 1, 2, 3 không sáng  không có dấu hiệu vận hành.
+0, Các đèn LED 1, 2, 3 không có hiệu ứng sáng  không hoạt động.
+0, LED 1, 2, 3 không hoạt động, không sáng lên  không có bất kỳ sự phản ứng nào.
+0, LED 1, 2, 3 đã được tắt.
+0, Đèn LED 1, 2, 3 đã ngừng hoạt động.
+0, Tất cả các đèn LED 1, 2, 3 đều đang trong trạng thái tắt.
+0, Không có ánh sáng nào phát ra từ LED 1, 2, 3 vì chúng đã bị tắt.
+0, LED 1, 2, 3 đã được ngắt nguồn.
+0, Các đèn LED 1, 2, 3 đã ngưng hoạt động  không còn sáng lên.
+0, Đèn LED 1, 2, 3 không hoạt động  không có tín hiệu sáng.
+0, LED 1, 2, 3 đã được tắt để tiết kiệm năng lượng.
+0, Không có hiệu ứng sáng nào từ LED 1, 2, 3 vì chúng đã được tắt.
+0, Các đèn LED 1, 2, 3 đã được tắt để tạo ra một không gian yên tĩnh.
+0, LED 1, LED 2  LED 3 đều tắt  không phát ra ánh sáng.
+0, Cả ba đèn LED 1, LED 2  LED 3 đều không hoạt động  chúng đang trong tình trạng tối tăm.
+0, LED 1, LED 2  LED 3 đều đã ngừng hoạt động  không có hiển thị sáng.
+0, Không có ánh sáng nào được phát ra từ LED 1, LED 2  LED 3 vì chúng đều tắt.
+0, LED 1, LED 2  LED 3 đều không sáng lên  không có dấu hiệu hoạt động.
+0, Cả ba đèn LED 1, LED 2  LED 3 đều không hoạt động  không có tín hiệu sáng.
+0, LED 1, LED 2  LED 3 đều không phản ứng  không có sự sáng lên.
+0, Không có hiệu ứng sáng nào từ LED 1, LED 2  LED 3 vì chúng đều đã tắt.
+0, LED 1, LED 2  LED 3 đều đã tắt để tạo ra một không gian hoàn toàn tối tăm.
+0, LED 1, LED 2  LED 3 không sáng lên  đang trong trạng thái tắt.
+0, Cả ba đèn LED 1, LED 2  LED 3 đều không hoạt động  không có sự phản ứng.
+0, Không có ánh sáng nào được phát ra từ LED 1, LED 2  LED 3 vì chúng không hoạt động.
+1, 1 sáng
+1, Led 1 sáng
+1, Đèn 1 sáng
+1, Chỉ đèn 1 sáng
+1, Đèn số 1 sáng
+1, Bật LED 1
+1, Bật đèn một
+1, Sáng LED 1
+1, Đèn 1 đã được bật sáng.
+1, Ánh sáng từ đèn 1 đã phát ra.
+1, Đèn 1 đang hoạt động  chiếu sáng.
+1, Đèn 1 đã được kích hoạt  đang sáng.
+1, Đèn 1 hiện đang ở trạng thái bật.
+1, Ánh sáng từ đèn 1 đang chiếu rọi.
+1, Đèn 1 đã được bật  phát ra ánh sáng.
+1, Đèn 1 đang hoạt động  tỏa sáng.
+1, Đèn 1 đã được kích hoạt  đang chiếu sáng.
+1, Ánh sáng từ đèn 1 đang rải rác trong không gian.
+1, Đèn 1 đã được bật  sáng lên.
+1, Ánh sáng từ đèn 1 đang tỏa ra.
+1, Đèn 1 đã được kích hoạt  đang chiếu sáng.
+1, Đèn 1 hiện đang ở trạng thái bật  phát ra ánh sáng.
+1, Đèn 1 đang hoạt động  chiếu rọi ánh sáng.
+1, Ánh sáng từ đèn 1 đã bắt đầu lan tỏa.
+1, Đèn 1 đang sáng lên  phát ra ánh sáng trong không gian.
+1, Đèn 1 đã được kích hoạt  tỏa ra ánh sáng.
+1, Ánh sáng từ đèn 1 đang chiếu sáng  tạo ra không gian sáng.
+1, Đèn 1 đã được bật  tỏa ra ánh sáng rực rỡ.
+1, Ánh sáng từ đèn 1 đang lan tỏa khắp không gian.
+1, Đèn 1 đang hoạt động  phát ra ánh sáng sắc nét.
+1, Đèn 1 đã được kích hoạt  chiếu sáng mạnh mẽ.
+1, Ánh sáng từ đèn 1 đang chiếu rọi  làm sáng bóng mọi góc của không gian.
+1, Đèn 1 đang sáng lên mạnh mẽ, làm rộng diện tích ánh sáng trong căn phòng.
+1, Đèn 1 đã được bật  tỏa ra ánh sáng dịu dàng.
+1, Ánh sáng từ đèn 1 đang tạo ra một không gian ấm áp  thoải mái.
+1, Đèn 1 đang hoạt động  phát ra ánh sáng dễ chịu.
+1, Đèn 1 đã được kích hoạt  tạo ra một bầu không khí sáng sủa.
+1, Ánh sáng từ đèn 1 đang lan tỏa  làm sáng rộng không gian xung quanh.
+1, 1 sáng
+1, Đèn LED 1 đã sáng lên  đã được kích hoạt.
+1, Đèn LED 1 đã được bật  đang tỏa sáng.
+1, Đèn LED 1 hiện đang hoạt động  phát ra ánh sáng.
+1, Đèn LED 1 đã được kích hoạt  đang chiếu sáng.
+1, Ánh sáng từ đèn LED 1 đã được bật  rải rác trong không gian.
+1, Đèn LED 1 đang tỏa ra ánh sáng sau khi được kích hoạt.
+1, Đèn LED 1 đã được bật  đang sáng lên.
+1, Đèn LED 1 đã được kích hoạt  phát ra ánh sáng sáng sủa.
+1, Đèn LED 1 đang hoạt động  chiếu sáng mạnh mẽ.
+1, Ánh sáng từ đèn LED 1 đang lan tỏa  tạo ra không gian sáng.
+1, Đèn LED 1 đã được kích hoạt  tỏa ra ánh sáng ấm áp.
+1, Đèn LED 1 đã được bật  phát ra ánh sáng rực rỡ.
+1, Đèn LED 1 đã được kích hoạt  tạo ra một không gian sáng sủa.
+1, Ánh sáng từ đèn LED 1 đang chiếu sáng  làm sáng rộng không gian.
+1, Đèn LED 1 đang tỏa ra ánh sáng  tạo ra một không gian ấm áp.
+1, Đèn LED 1 đã được bật  tạo ra một không gian sáng sủa.
+1, Ánh sáng từ đèn LED 1 đang lan tỏa  làm sáng rộng không gian xung quanh.
+1, Đèn LED 1 đã được kích hoạt  tỏa ra ánh sáng dịu dàng.
+1, Đèn LED 1 đang hoạt động  tạo ra một không gian sáng sủa  ấm áp.
+1, Ánh sáng từ đèn LED 1 đang chiếu rọi  làm sáng rộng không gian xung quanh.
+1, Đèn 1 đang phát sáng  hoạt động bình thường.
+1, Ánh sáng từ đèn 1 đang tỏa ra, cho thấy nó đang hoạt động.
+1, Đèn 1 đang sáng lên, cho thấy nó đang hoạt động.
+1, Đèn 1 đã được bật  đang tỏa ra ánh sáng.
+1, Ánh sáng từ đèn 1 đang chiếu rọi, chỉ ra rằng nó đang hoạt động.
+1, Đèn 1 đang tỏa ra ánh sáng mạnh mẽ, cho thấy nó đang hoạt động.
+1, Đèn 1 đã được kích hoạt  đang phát sáng.
+1, Ánh sáng từ đèn 1 đang rải rác trong không gian, chỉ ra rằng nó đang hoạt động.
+1, Đèn 1 đang tỏa ra ánh sáng ấm áp, chỉ ra rằng nó đang hoạt động.
+1, Đèn 1 đã được bật  đang làm sáng không gian xung quanh.
+1, Just 1 bật
+1, Mở đèn số 1 
+1, Một bật
+1, First bật
+1, 1 is being used
+1, 1
+1, Vui lòng mở LED 1.
+1, Xin  bật LED 1.
+1, Mở LED 1 lên giúp tôi.
+1, Làm ơn bật LED 1.
+1, Đề nghị mở LED 1.
+1, Bạn có thể mở LED 1 không?
+1, Vui lòng bật LED 1 giúp tôi.
+1,  mở LED 1 lên.
+1, Nhờ bạn mở LED 1.
+1, Làm ơn mở toàn bộ LED 1.
+1, Mở LED 1 lên đi.
+1, Bạn bật LED 1 được không?
+1, Vui lòng kích hoạt LED 1.
+1, Mở LED 1 ngay bây giờ.
+1, Xin  mở LED 1 ngay.
+2, LED 2 bật
+2, Chỉ đèn 2 sáng
+2, Đèn 2 sáng
+2, Bật đèn hai
+2, Second led bật
+2, Đèn 2 đã được bật
+2, Kích hoạt đèn hai
+2, 2 
+2, 2 bật
+2, second led bật 
+2, Turn bật second led
+2, Second led is activated
+2, Led hai sáng
+2, Mở led hai lên
+2, Hai sáng
+2, Đèn 2 đã được bật, nó đang hoạt động.
+2, Ánh sáng của đèn 2 đã được bật lên, nó đang hoạt động.
+2, Đèn 2 đã được kích hoạt  sáng rồi.
+2, Đèn 2 đã được bật  hoạt động.
+2, Ánh sáng của đèn 2 đã được kích hoạt  tỏa sáng.
+2, Đèn 2 đã được bật  đang phát sáng.
+2, Đèn 2 đã được kích hoạt  đang chiếu sáng.
+2, Đèn 2 đã được bật  hoạt động đúng như dự kiến.
+2, Ánh sáng của đèn 2 đã được kích hoạt  đang rọi sáng.
+2, Đèn 2 đã được mở  đang hoạt động.
+2, Đèn 2 đã được bật  đang cháy sáng.
+2, Đèn 2 đã được kích hoạt  đang sáng.
+2, Đèn 2 đã được kích hoạt  đang hoạt động đúng cách.
+2, Vui lòng mở LED 2.
+2, Xin  bật LED 2.
+2, Mở LED 2 lên giúp tôi.
+2, Làm ơn bật LED 2.
+2, Đề nghị mở LED 2.
+2, Bạn có thể mở LED 2 không?
+2, Vui lòng bật LED 2 giúp tôi.
+2,  mở LED 2 lên.
+2, Nhờ bạn mở LED 2.
+2, Vui lòng mở nguồn LED 2.
+2, Xin  mở nguồn LED 2.
+2, Mở nguồn LED 2 giúp tôi.
+2, Làm ơn bật nguồn LED 2.
+2, Đề nghị mở nguồn LED 2.
+2, Bạn có thể mở nguồn LED 2 không?
+2, Vui lòng bật nguồn LED 2 giúp tôi.
+2,  mở nguồn LED 2 lên.
+2, Nhờ bạn mở nguồn LED 2.
+2, Ánh sáng của đèn 2 đã được bật  đang tỏa ra.
+2, Đèn 2 đã được bật  đang làm việc.
+2, Đèn 2 đã được kích hoạt  đang phát sáng một cách bình thường.
+2, Đèn 2 đã được bật  đang làm nhiệm vụ của nó.
+2, Ánh sáng của đèn 2 đã được bật  đang hoạt động.
+2, Đèn 2 đã được kích hoạt  đang chiếu sáng một cách ổn định.
+2, Đèn 2 đã được bật  đang hoạt động như thường lệ.
+2, Đèn LED  hai được kích hoạt  phát sáng.
+2, LED số hai đang được kích hoạt  chiếu sáng.
+2, Đèn LED thai đang bật sáng.
+2, LED 2 đang ở trạng thái hoạt động  chiếu sáng.
+2, Đèn LED hai đã được kích hoạt  đang sáng.
+2, LED số hai đã được bật  đang phát sáng.
+2, Đèn LED hai được kích hoạt  tỏa sáng.
+2, LED 2 đã được kích hoạt  đang tỏa sáng.
+2, Đèn LED  hai đã được kích hoạt  đang tỏa ra ánh sáng.
+2, LED số hai đã được kích hoạt  đang phát ra ánh sáng.
+2, Đèn LED hai đã được kích hoạt  đang chiếu sáng.
+2, LED 2 đã được kích hoạt  đang chiếu sáng.
+2, Đèn LED  hai đã được bật  phát sáng.
+2, LED số hai đã được bật  đang tỏa ra ánh sáng.
+2, Đèn LED hai đã được bật  đang tỏa sáng.
+2, LED 2 đã được bật  đang sáng.
+2, Đèn LED hai đã được bật  đang phát ra ánh sáng.
+2, LED 2 đã được kích hoạt  đang tỏa ra đèn sáng.
+2, Đèn LED hai đã được kích hoạt  phát sáng lên.
+2, LED 2 đã được kích hoạt  đang phát sáng ra.
+2, Chỉ có đèn 2 đang sáng.
+2, Chỉ có đèn hai đang chiếu sáng.
+2, Chỉ có đèn 2 đang phát sáng.
+2, Chỉ có đèn hai đang tỏa sáng.
+2, Chỉ có đèn số hai đang tỏa ra ánh sáng.
+2, Chỉ có đèn 2 đang chiếu sáng.
+2, Đèn hai đang sáng duy nhất.
+2, Đèn 2 là đèn duy nhất đang sáng.
+2, Đèn số hai là nguồn sáng duy nhất.
+2, Chỉ có đèn 2 phát sáng lên.
+2, Đèn hai đang tỏa ra đèn sáng.
+2, Đèn số hai là đèn duy nhất phát sáng.
+2, Đèn hai đang tỏa ra ánh sáng duy nhất.
+2, Chỉ có đèn 2 chiếu sáng.
+2, Đèn 2 là nguồn sáng duy nhất.
+2, Chỉ có đèn hai tỏa sáng.
+2, Chỉ có đèn 2 đang phát ra ánh sáng.
+2, Đèn số hai đang chiếu sáng.
+2, Chỉ có đèn thai đang tỏa ra đèn sáng.
+2, Chỉ có đèn 2 đang tỏa ra ánh sáng.
+2, Vui lòng mở đèn 2.
+2, Xin  bật đèn 2.
+2, Mở đèn 2 lên giúp tôi.
+2, Làm ơn bật đèn 2.
+2, Đề nghị mở đèn 2.
+2, Bạn có thể mở đèn 2 không?
+2, Vui lòng bật đèn 2 giúp tôi.
+2,  mở đèn 2 lên.
+2, Nhờ bạn mở đèn 2.
+2, Làm ơn mở toàn bộ đèn 2.
+2, Mở đèn 2 lên đi.
+2, Bạn bật đèn 2 được không?
+2, Vui lòng kích hoạt đèn 2.
+2, Mở đèn 2 ngay bây giờ.
+2, Xin  mở đèn 2 ngay.
+2, Bạn có thể bật đèn 2 giúp tôi không?
+2,  bật đèn 2 đi.
+2, Nhờ bạn bật đèn 2 lên.
+2, Đề nghị bạn mở đèn 2.
+3, Đèn 3 sáng lên
+3, Đèn ba sáng lên
+3, LED 3 bật
+3, LED ba bật
+3, Đèn số 3 đã sáng
+3, Đèn số ba đã sáng
+3, LED số 3 đã bật
+3, Đèn 3 đang sáng
+3, Cấp nguồn cho đèn LED 3
+3, Bật đèn LED ba lên
+3, Kích hoạt đèn LED ba
+3, Kích hoạt đèn LED ở vị trí số ba
+3, Kích hoạt đèn LED số ba
+3, 3 bật
+3, 3 sáng 
+3, 3
+3, Đèn 3 sáng 
+3, Thắp sáng đèn 3 nào
+3,  thắp sáng đèn 3
+3, Có thể thắp sáng đèn 3 đươc không 
+3, Cho tôi ít ánh sáng từ đèn ba nào
+3, Turn bật LED 3
+3,  thắp sáng led ở vị trí thứ 3 
+3, Led vị trí thứ 3 sáng lên
+3, Đèn ba đã được kích hoạt  đang phát sáng.
+3, Chỉ có đèn 3 đang được kích hoạt  tỏa sáng.
+3, Đèn số ba đang bật  chiếu sáng.
+3, Đèn 3 đang ở trạng thái hoạt động  phát sáng.
+3, Đèn ba đang sáng lên.
+3, Chỉ có đèn 3 đang bật  tỏa sáng.
+3, Chỉ có đèn thứ ba được kích hoạt  đang sáng.
+3, Đèn số ba đã được bật  đang phát sáng.
+3, Đèn thứ ba được kích hoạt  tỏa ra ánh sáng.
+3, Đèn 3 đã được kích hoạt  đang tỏa ra đèn sáng.
+3, Ánh sáng của đèn thứ ba đang phát ra.
+3, Đèn ba đang tỏ ra ánh sáng.
+3, Ánh sáng thứ ba đang chiếu sáng.
+3, Ánh sáng từ đèn số ba đang tỏa ra.
+3, Đèn thứ ba đang phát sáng.
+3, Ánh sáng thứ ba đang tỏa sáng.
+3, Ánh sáng của đèn ba đang chiếu ra.
+3, Ánh sáng từ nguồn sáng thứ ba đang phát ra.
+3, Đèn số ba đang tỏa ra ánh sáng.
+3, Ánh sáng từ đèn thứ ba đang phát ra.
+3, Đèn ba đang tỏa ra đèn sáng.
+3, Ánh sáng của đèn thứ ba đang tỏa sáng.
+3, Ánh sáng từ đèn ba đang phát ra.
+3, Đèn thứ ba đang tỏa ra đèn sáng.
+3, Ánh sáng thứ ba đang phát ra ánh sáng.
+3, Ánh sáng từ đèn số ba đang tỏa ra.
+3, Đèn ba đang tỏa sáng.
+3, Ánh sáng của đèn thứ ba đang phát ra.
+3, Đèn số ba đang tỏa ra đèn sáng.
+3, Ánh sáng từ đèn ba đang chiếu sáng.
+3, Chỉ có đèn thứ ba đang phát ra ánh sáng.
+3, Đèn 3 đã được kích hoạt  đang chiếu sáng.
+3, Đèn thứ ba đã được bật  đang tỏa sáng.
+3, Chỉ có đèn 3 đang phát ra đèn sáng.
+3, Đèn số ba đã được kích hoạt  phát sáng.
+3, Chỉ có đèn thứ ba đang tỏa ra ánh sáng.
+3, Đèn 3 đã được kích hoạt  đang tỏa ra ánh sáng.
+3, Chỉ có đèn số ba đang chiếu sáng.
+3, Đèn thứ ba đã được kích hoạt  đang tỏa sáng.
+3, Đèn 3 đã được bật  đang chiếu sáng
+3, 3 
+3, 3 bật 
+3, third led bật
+3, third bật 
+3, 3 sáng
+3, Vui lòng mở nguồn đèn 3.
+3, Xin  mở nguồn đèn 3.
+3, Mở nguồn đèn 3 giúp tôi.
+3, Làm ơn bật nguồn đèn 3.
+3, Đề nghị mở nguồn đèn 3.
+3, Bạn có thể mở nguồn đèn 3 không?
+3, Vui lòng bật nguồn đèn 3 giúp tôi.
+3,  mở nguồn đèn 3 lên.
+3, Nhờ bạn mở nguồn đèn 3.
+3, Vui lòng mở đèn 3.
+3, Xin  bật đèn 3.
+3, Mở đèn 3 lên giúp tôi.
+3, Làm ơn bật đèn 3.
+3, Đề nghị mở đèn 3.
+3, Bạn có thể mở đèn 3 không?
+3, Vui lòng bật đèn 3 giúp tôi.
+3,  mở đèn 3 lên.
+3, Nhờ bạn mở đèn 3.
+3, Làm ơn mở toàn bộ đèn 3.
+3, Mở đèn 3 lên đi.
+3, Bạn bật đèn 3 được không?
+3, Vui lòng kích hoạt đèn 3.
+3, Mở đèn 3 ngay bây giờ.
+3, Xin  mở đèn 3 ngay.
+3, Bạn có thể bật đèn 3 giúp tôi không?
+3,  bật đèn 3 đi.
+3, Nhờ bạn bật đèn 3 lên.
+3, Vui lòng mở LED 3.
+3, Xin  bật LED 3.
+3, Mở LED 3 lên giúp tôi.
+3, Làm ơn bật LED 3.
+3, Đề nghị mở LED 3.
+3, Bạn có thể mở LED 3 không?
+3, Vui lòng bật LED 3 giúp tôi.
+3,  mở LED 3 lên.
+3, Nhờ bạn mở LED 3.
+3, Vui lòng mở nguồn LED 3.
+3, Xin  mở nguồn LED 3.
+3, Mở nguồn LED 3 giúp tôi.
+3, Làm ơn bật nguồn LED 3.
+3, Đề nghị mở nguồn LED 3.
+3, Bạn có thể mở nguồn LED 3 không?
+3, Vui lòng bật nguồn LED 3 giúp tôi.
+3,  mở nguồn LED 3 lên.
+3, Nhờ bạn mở nguồn LED 3.
+3, Đề nghị bạn mở đèn 3.
+4, LED 1  2 đều đã được kích hoạt  sáng lên
+4, Cả hai đèn ở vị trí 1  2 đều đã được bật lên
+4, Đèn số 1  2 đều sáng
+4, LED ở vị trí số một  hai đều đã được thắp sáng
+4, 1 2 bật
+4, 1 2
+4, 1 2 sáng
+4, Đèn 1  2  sáng
+4, Led 1 2 bật
+4, Bật cả hai đèn một  2
+4, Bật đèn 1  đèn 2
+4, Turn bật first led and second led
+4, Kích hoạt LED 1  2
+4, Chiếu sáng LED 1  2
+4, Bật đèn LED 1  2
+4, Kích hoạt đèn một  2
+4, Mở nguồn cho LED 1  2
+4, Đèn số một  hai đang phát sáng.
+4, Đèn 1  2 đều đang hoạt động  tỏa sáng.
+4, Cả hai nguồn sáng đều đã được bật  đang phát sáng.
+4, Cả hai đèn 1  2 đều ở trạng thái hoạt động  phát sáng.
+4, Cả đèn một  hai đều đã được kích hoạt  đang chiếu sáng.
+4, Đèn 1  2 đều đang tỏa ra ánh sáng.
+4, Đèn số một  hai đang tỏa ra đèn sáng.
+4, Cả hai nguồn sáng đều đã được kích hoạt  đang tỏa ra ánh sáng.
+4, Cả hai đèn 1  2 đều đang phát ra ánh sáng.
+4, Đèn một  hai đều đang tỏa ra ánh sáng.
+4, Đèn số một  hai đang sáng.
+4, Cả đèn một  hai đều đang tỏa ra ánh sáng.
+4, Đèn 1  2 đều đang phát sáng.
+4, Cả hai nguồn sáng đều đang hoạt động  tỏa sáng.
+4, Cả hai đèn 1  2 đều ở trạng thái hoạt động  phát sáng.
+4, Cả đèn một  hai đều đã được kích hoạt  đang chiếu sáng.
+4, Đèn 1  2 đều đang tỏa ra đèn sáng.
+4, Đèn số một  hai đang tỏa ra đèn sáng.
+4, Cả hai nguồn sáng đều đã được kích hoạt  đang tỏa ra ánh sáng.
+4, Cả hai đèn 1  2 đều đang phát ra ánh sáng.
+4, Đèn một  hai đều đang tỏa ra ánh sáng.
+4, Cả hai nguồn sáng đều đã được kích hoạt  tỏa ra đèn sáng.
+4, Đèn 1  2 đều đang tỏa ra ánh sáng.
+4, Cả đèn một  hai đều đang phát ra đèn sáng.
+4, Đèn một  hai đều đang tỏa ra đèn sáng.
+4, Đèn số một  hai đang tỏa ra sự sáng.
+4, Cả đèn một  hai đều đang tỏa sáng.
+4, Đèn 1  2 đều đang phát ra sự sáng.
+4, Cả hai nguồn sáng đều đang hoạt động  phát ra sự sáng.
+4, Cả hai đèn 1  2 đều ở trạng thái hoạt động  tỏa sáng.
+4, Cả đèn một  hai đều đã được kích hoạt  tỏa sáng.
+4, Đèn 1  2 đều đang tỏa ra đèn sáng.
+4, Led số một  hai đang phát sáng.
+4, Cả led một  hai đều đang chiếu sáng.
+4, Led 1  2 đều đang hoạt động  tỏa sáng.
+4, Cả hai nguồn sáng đều đã được bật  đang phát sáng.
+4, Cả hai led 1  2 đều ở trạng thái hoạt động  phát sáng.
+4, Cả led một  hai đều đã được kích hoạt  đang chiếu sáng.
+4, Led 1  2 đều đang tỏa ra ánh sáng.
+4, Led số một  hai đang tỏa ra đèn sáng.
+4, Cả hai nguồn sáng đều đã được kích hoạt  đang tỏa ra ánh sáng.
+4, Cả hai led 1  2 đều đang phát ra ánh sáng.
+4, Led một  hai đều đang tỏa ra ánh sáng.
+4, Cả hai nguồn sáng đều đã được kích hoạt  tỏa ra đèn sáng.
+4, Led 1  2 đều đang tỏa ra ánh sáng.
+4, Cả led một  hai đều đang phát ra đèn sáng.
+4, Led một  hai đều đang tỏa ra đèn sáng.
+4, Mở nguồn cho cả hai đèn LED 1  hai
+4, Kích hoạt cả hai đèn LED 1  hai
+4, Bật cả hai đèn LED 1  2
+4, Chiếu sáng cả hai đèn LED 1  2
+4, Kích hoạt cả hai đèn LED 1  2
+4, Đèn 1  đèn 2 đều được bật sáng.
+4, Cả hai đèn 1  đèn 2 đều đang hoạt động.
+4, Đèn 1  đèn 2 đều sáng.
+4, Cả hai đèn 1  đèn 2 đều được mở.
+4, Đèn 1  đèn 2 đều ở trạng thái bật.
+4, Cả hai đèn 1  đèn 2 đều ở trạng thái hoạt động.
+4, Đèn 1  đèn 2 cùng hoạt động.
+4, Cả hai đèn 1  đèn 2 đều có ánh sáng.
+4, Đèn 1  đèn 2 đều đang chiếu sáng.
+4, Đèn 1  đèn 2 đều đang làm việc.
+4, Cả hai đèn 1  đèn 2 đều được mở sáng.
+4, Đèn 1  đèn 2 đều ở trạng thái bật đèn.
+4, Cả hai đèn 1  đèn 2 đều đang phát sáng.
+4, LED 1  LED 2 đều được bật sáng.
+4, Cả hai LED 1  LED 2 đều đang hoạt động.
+4, LED 1  LED 2 đều sáng.
+4, Cả hai LED 1  LED 2 đều được mở.
+4, LED 1  LED 2 đều ở trạng thái bật.
+4, Cả hai LED 1  LED 2 đều ở trạng thái hoạt động.
+4, LED 1  LED 2 cùng hoạt động.
+4, Cả hai LED 1  LED 2 đều có ánh sáng.
+4, LED 1  LED 2 đều đang chiếu sáng.
+4, LED 1  LED 2 đều đang làm việc.
+4, Cả hai LED 1  LED 2 đều được mở sáng.
+4, LED 1  LED 2 đều ở trạng thái bật đèn.
+4, Cả hai LED 1  LED 2 đều đang phát sáng.
+4, Cả hai đèn một  đèn hai đều có ánh sáng.
+4, Đèn một  đèn hai đều đang chiếu sáng.
+4, Đèn một  đèn hai đều đang làm việc.
+4, Cả hai đèn một  đèn hai đều được mở sáng.
+4, Đèn một  đèn hai đều ở trạng thái bật đèn.
+4, Cả hai đèn một  đèn hai đều đang phát sáng.
+4, Đèn một  đèn hai đều đang hoạt động với ánh sáng.
+4, Cả hai đèn một  đèn hai đều đang tỏa sáng.
+4, Đèn một  đèn hai đều đang làm việc đúng cách.
+4, Cả hai đèn một  đèn hai đều đang trong trạng thái hoạt động.
+4, Đèn một  đèn hai đều đang sáng lên.
+4,  mở đèn 1 và đèn 2.
+4, Xin hãy bật đèn 1 và đèn 2.
+4, Mở đèn 1 và đèn 2 lên giúp tôi.
+4, Làm ơn bật đèn 1 và đèn 2.
+4, Đề nghị mở đèn 1 và đèn 2.
+4, Bạn có thể mở đèn 1 và đèn 2 không?
+4,  bật đèn 1 và đèn 2 giúp tôi.
+4, Hãy mở đèn 1 và đèn 2 lên.
+4, Nhờ bạn mở đèn 1 và đèn 2.
+4, Làm ơn mở toàn bộ đèn 1 và đèn 2.
+4, Mở đèn 1 và đèn 2 lên đi.
+4, Bạn bật đèn 1 và đèn 2 được không?
+4,  kích hoạt đèn 1 và đèn 2.
+4, Mở đèn 1 và đèn 2 ngay bây giờ.
+4, Xin hãy mở đèn 1 và đèn 2 ngay.
+4, Bạn có thể bật đèn 1 và đèn 2 giúp tôi không?
+4, Hãy bật đèn 1 và đèn 2 đi.
+4, Nhờ bạn bật đèn 1 và đèn 2 lên.
+4, Đề nghị bạn mở đèn 1 và đèn 2.
+4, Vui lòng mở nguồn đèn 1 và đèn 2.
+4, Xin hãy mở nguồn đèn 1 và đèn 2.
+4, Mở nguồn đèn 1 và đèn 2 giúp tôi.
+4, Làm ơn bật nguồn đèn 1 và đèn 2.
+4, Đề nghị mở nguồn đèn 1 và đèn 2.
+4, Bạn có thể mở nguồn đèn 1 và đèn 2 không?
+4, Vui lòng bật nguồn đèn 1 và đèn 2 giúp tôi.
+4, Hãy mở nguồn đèn 1 và đèn 2 lên.
+4, Nhờ bạn mở nguồn đèn 1 và đèn 2.
+4, Đèn một  đèn hai đều được kích hoạt.
+4, Cả hai đèn một  đèn hai đều bật.
+4, Cả hai LED một  LED hai đều có ánh sáng.
+4, LED một  LED hai đều đang chiếu sáng.
+4, LED một  LED hai đều đang làm việc.
+4, Cả hai LED một  LED hai đều được mở sáng.
+4, LED một  LED hai đều ở trạng thái bật đèn.
+4, Cả hai LED một  LED hai đều đang phát sáng.
+4, LED một  LED hai đều đang hoạt động với ánh sáng.
+4, Cả hai LED một  LED hai đều đang tỏa sáng.
+4, LED một  LED hai đều đang làm việc đúng cách.
+4, Cả hai LED một  LED hai đều đang trong trạng thái hoạt động.
+4, LED một  LED hai đều đang sáng lên.
+4, LED một  LED hai đều được kích hoạt.
+4, Cả hai LED một  LED hai đều bật.
+4, Turn bật second led and third led
+4, Mở nguồn cho cả hai đèn LED một  2
+4, Kích hoạt cả hai đèn LED một  2
+4, Nguồn sáng số một  hai đang phát sáng.
+4, Cả nguồn sáng một  hai đều đang tỏa sáng.
+4, Nguồn sáng 1  2 đều đang hoạt động  tỏa sáng.
+4, Cả hai nguồn sáng đều đã được bật  đang phát sáng.
+4, Cả hai nguồn sáng một  hai đều ở trạng thái hoạt động  phát sáng.
+4, Cả nguồn sáng một  hai đều đã được kích hoạt  đang chiếu sáng.
+4, Nguồn sáng 1  2 đều đang tỏa ra ánh sáng.
+4, Nguồn sáng số một  hai đang tỏa ra đèn sáng.
+4, Cả hai nguồn sáng đều đã được kích hoạt  đang tỏa ra ánh sáng.
+4, Cả hai nguồn sáng một  hai đều đang phát ra ánh sáng.
+4, Nguồn sáng một  hai đều đang tỏa ra ánh sáng.
+4, Cả hai nguồn sáng đều đã được kích hoạt  tỏa ra đèn sáng.
+4, Nguồn sáng 1  2 đều đang tỏa ra ánh sáng.
+4, Cả nguồn sáng một  hai đều đang phát ra đèn sáng.
+4, Nguồn sáng một  hai đều đang tỏa ra đèn sáng.
+4, Bật cả hai đèn LED một  hai
+4, Chiếu sáng cả hai đèn LED 1  hai
+4, Kích hoạt cả hai đèn LED 1  hai
+4, Mở nguồn cho cả hai đèn LED một  hai
+4, Kích hoạt cả hai đèn LED một  2
+4, Vui lòng mở LED 1 và LED 2.
+4, Xin hãy bật LED 1 và LED 2.
+4, Mở LED 1 và LED 2 lên giúp tôi.
+4, Làm ơn bật LED 1 và LED 2.
+4, Đề nghị mở LED 1 và LED 2.
+4, Bạn có thể mở LED 1 và LED 2 không?
+4, Vui lòng bật LED 1 và LED 2 giúp tôi.
+4, Hãy mở LED 1 và LED 2 lên.
+4, Nhờ bạn mở LED 1 và LED 2.
+4, Làm ơn mở toàn bộ LED 1 và LED 2.
+4, Vui lòng mở nguồn LED 1 và LED 2.
+4, Xin hãy mở nguồn LED 1 và LED 2.
+4, Mở nguồn LED 1 và LED 2 giúp tôi.
+4, Làm ơn bật nguồn LED 1 và LED 2.
+4, Đề nghị mở nguồn LED 1 và LED 2.
+4, Bạn có thể mở nguồn LED 1 và LED 2 không?
+4, Bật cả hai đèn LED 1  2
+4, Chiếu sáng cả hai đèn LED 1  2
+4, Kích hoạt cả hai đèn LED một  2
+4, Mở nguồn cho cả hai đèn LED một  2
+4, Kích hoạt cả hai đèn LED một  2
+4, Bật cả hai đèn LED một  2
+4, Chiếu sáng cả hai đèn LED 1  hai
+4, Kích hoạt cả hai đèn LED 1  hai
+4, Mở nguồn cho cả hai đèn LED một  2
+6, Led 2  3 bật
+6, Bật led 2 and 3
+6, LED 2 and 3 are bật
+6, Bật cả hai LED 2  3
+6, LED 2  3 được bật
+6, Turn bật led 2 and 3
+6, Bật led 2  3 lên
+6, LED 2 and 3 đang được bật sáng
+6, Kích hoạt led 2  3
+6, Chiếu sáng led 2  3
+6, Bật đèn led 2  3
+6, Kích hoạt led 2  3
+6, Mở nguồn cho led 2  3
+6, Bật led 2  3
+6, Bật led 2  3
+6, Làm sáng led 2  3
+6, Kích hoạt cả hai LED 2  LED 3
+6, Vui lòng mở LED 2 và LED 3.
+6, Xin hãy bật LED 2 và LED 3.
+6, Mở LED 2 và LED 3 lên giúp tôi.
+6, Làm ơn bật LED 2 và LED 3.
+6, Đề nghị mở LED 2 và LED 3.
+6, Bạn có thể mở LED 2 và LED 3 không?
+6, Vui lòng bật LED 2 và LED 3 giúp tôi.
+6, Hãy mở LED 2 và LED 3 lên.
+6, Nhờ bạn mở LED 2 và LED 3.
+6, Nạp năng lượng cho led 2  3
+6, Chiếu sáng cả hai led 2  led 3
+6, Bật sáng cả hai led 2  led 3
+6, Kích hoạt cả hai led 2  led 3
+6, Mở nguồn cho cả hai led 2  led 3
+6, Kích hoạt cả hai led 2  led 3
+6, Vui lòng mở đèn 2 và đèn 3.
+6, Xin hãy bật đèn 2 và đèn 3.
+6, Mở đèn 2 và đèn 3 lên giúp tôi.
+6, Làm ơn bật đèn 2 và đèn 3.
+6, Đề nghị mở đèn 2 và đèn 3.
+6, Bạn có thể mở đèn 2 và đèn 3 không?
+6, Vui lòng bật đèn 2 và đèn 3 giúp tôi.
+6, Hãy mở đèn 2 và đèn 3 lên.
+6, Nhờ bạn mở đèn 2 và đèn 3.
+6, Vui lòng mở nguồn đèn 2 và đèn 3.
+6, Xin hãy mở nguồn đèn 2 và đèn 3.
+6, Mở nguồn đèn 2 và đèn 3 giúp tôi.
+6, Làm ơn bật nguồn đèn 2 và đèn 3.
+6, Đề nghị mở nguồn đèn 2 và đèn 3.
+6, Bạn có thể mở nguồn đèn 2 và đèn 3 không?
+6, Vui lòng bật nguồn đèn 2 và đèn 3 giúp tôi.
+6, Hãy mở nguồn đèn 2 và đèn 3 lên.
+6, Nhờ bạn mở nguồn đèn 2 và đèn 3.
+6, Bật cả hai led hai  led 3
+6, Đề nghị mở nguồn LED 2 và LED 3.
+6, Bạn có thể mở nguồn LED 2 và LED 3 không?
+6, Vui lòng bật nguồn LED 2 và LED 3 giúp tôi.
+6, Hãy mở nguồn LED 2 và LED 3 lên.
+6, Nhờ bạn mở nguồn LED 2 và LED 3.
+6, Vui lòng mở nguồn LED 2 và LED 3.
+6, Xin hãy mở nguồn LED 2 và LED 3.
+6, Mở nguồn LED 2 và LED 3 giúp tôi.
+6, Làm sáng cả hai led hai  led 3
+6, Bật cả hai đèn LED 2  LED ba
+6, Kích hoạt cả hai đèn 2  ba
+6, Chiếu sáng cả hai đèn hai  ba
+6, Led 2  ba bật
+6, Second and third led bật
+6, Cho đèn 2 3 ít ánh sáng 
+6, Đèn số hai  ba đang phát sáng.
+6, Chỉ có đèn hai  ba đang chiếu sáng.
+6, Đèn 2  3 đang hoạt động  tỏa sáng.
+6, Chỉ có hai nguồn sáng số hai  ba đã được bật  đang phát sáng.
+6, Đèn số hai  ba đã được kích hoạt  đang sáng.
+6, Chỉ có đèn hai  ba đang tỏa ra ánh sáng.
+6, Đèn 2  3 đang tỏa ra ánh sáng.
+6, Đèn số hai  ba đang tỏa ra đèn sáng.
+6, Chỉ có đèn hai  ba đang tỏa ra đèn sáng.
+6, Đèn 2  3 đang tỏa ra đèn sáng.
+6, Đèn số hai  ba đang tỏa ra ánh sáng.
+6, Đèn 2  3 đang phát ra ánh sáng.
+6, Chỉ có hai nguồn sáng số hai  ba đã được bật  đang tỏa ra đèn sáng.
+6, Đèn số hai  ba đang tỏa ra ánh sáng.
+6, Chỉ có đèn hai  ba đang tỏa ra đèn sáng.
+6, Chỉ có led hai  ba đang chiếu sáng.
+6, Led số hai  ba đang phát sáng.
+6, Chỉ có led hai  ba đang tỏa sáng.
+6, Led 2  3 đang hoạt động  tỏa sáng.
+6, Chỉ có hai nguồn sáng số hai  ba đã được bật  đang phát sáng.
+6, Chỉ có led hai  ba đang ở trạng thái hoạt động  phát sáng.
+6, Led số hai  ba đã được kích hoạt  đang sáng.
+6, Chỉ có led hai  ba đang tỏa ra ánh sáng.
+6, Led 2  3 đang tỏa ra ánh sáng.
+6, Led số hai  ba đang tỏa ra đèn sáng.
+6, Chỉ có led hai  ba đang tỏa ra đèn sáng.
+6, Led 2  3 đang tỏa ra đèn sáng.
+6, Chỉ có hai nguồn sáng số hai  ba đã được kích hoạt  đang tỏa ra ánh sáng.
+6, Led số hai  ba đang tỏa ra ánh sáng.
+6, Chỉ có led hai  ba đang tỏa ra ánh sáng.
+6, Led 2  3 đang phát ra ánh sáng.
+6, Chỉ có hai nguồn sáng số hai  ba đã bật  đang tỏa ra đèn sáng.
+6, Led số hai  ba đang tỏa ra ánh sáng.
+6, Chỉ có led hai  ba đang tỏa ra đèn sáng.
+6, Chỉ có nguồn sáng hai  ba đang sáng.
+6, Nguồn sáng số hai  ba đang phát sáng.
+6, Chỉ có nguồn sáng hai  ba đang tỏa sáng.
+6, Nguồn sáng 2  3 đang hoạt động  tỏa sáng.
+6, Chỉ có hai nguồn sáng số hai  ba đã được bật  đang phát sáng.
+6, Nguồn sáng số hai  ba đã được kích hoạt  đang sáng.
+6, Chỉ có nguồn sáng hai  ba đang tỏa ra ánh sáng.
+6, Nguồn sáng 2  3 đang tỏa ra ánh sáng.
+6, Nguồn sáng số hai  ba đang tỏa ra đèn sáng.
+6, Chỉ có nguồn sáng hai  ba đang tỏa ra đèn sáng.
+6, Chỉ có hai nguồn sáng số hai  ba đã được kích hoạt  đang tỏa ra ánh sáng.
+6, Chỉ có hai nguồn sáng số hai  ba đã bật  đang tỏa ra đèn sáng.
+6, Nguồn sáng số hai  ba đang tỏa ra ánh sáng.
+6, Chỉ có nguồn sáng hai  ba đang tỏa ra đèn sáng.
+6, Chỉ có nguồn sáng hai  ba đang sáng.
+6, Nguồn sáng số hai  ba đang phát sáng.
+6, Đèn hai  đèn ba đều được bật sáng.
+6, Cả hai đèn hai  đèn ba đều đang hoạt động.
+6, Đèn hai  đèn ba đều sáng.
+6, Cả hai đèn hai  đèn ba đều được mở.
+6, Đèn hai  đèn ba đều ở trạng thái bật.
+6, Cả hai đèn hai  đèn ba đều ở trạng thái hoạt động.
+6, Đèn hai  đèn ba cùng hoạt động.
+6, Cả hai đèn hai  đèn ba đều có ánh sáng.
+6, Đèn hai  đèn ba đều đang chiếu sáng.
+6, Đèn hai  đèn ba đều đang làm việc.
+6, Cả hai đèn hai  đèn ba đều được mở sáng.
+6, Cả hai LED hai  LED ba đều có ánh sáng.
+6, LED hai  LED ba đều đang chiếu sáng.
+6, LED hai  LED ba đều đang làm việc.
+6, Cả hai LED hai  LED ba đều được mở sáng.
+6, LED hai  LED ba đều ở trạng thái bật đèn.
+6, Cả hai LED hai  LED ba đều đang phát sáng.
+6, LED hai  LED ba đều đang hoạt động với ánh sáng.
+6, Cả hai LED hai  LED ba đều đang tỏa sáng.
+6, LED hai  LED ba đều đang làm việc đúng cách.
+6, Cả hai LED hai  LED ba đều đang trong trạng thái hoạt động.
+6, LED hai  LED ba đều đang sáng lên.
+6, LED hai  LED ba đều được kích hoạt.
+6, Cả hai LED hai  LED ba đều bật.
+6, LED 2  LED 3 đều đang làm việc.
+6, Cả hai LED 2  LED 3 đều được mở sáng.
+6, LED 2  LED 3 đều ở trạng thái bật đèn.
+6, Cả hai LED 2  LED 3 đều đang phát sáng.
+6, LED 2  LED 3 đều đang hoạt động với ánh sáng.
+6, Cả hai LED 2  LED 3 đều đang tỏa sáng.
+6, LED 2  LED 3 đều đang làm việc đúng cách.
+6, Cả hai LED 2  LED 3 đều đang trong trạng thái hoạt động.
+6, LED 2  LED 3 đều đang sáng lên.
+6, LED 2  LED 3 đều được kích hoạt.
+6, Cả hai LED 2  LED 3 đều bật.
+6, Đèn 2  đèn 3 đều được bật sáng.
+6, Cả hai đèn 2  đèn 3 đều đang hoạt động.
+6, Đèn 2  đèn 3 đều sáng.
+6, Cả hai đèn 2  đèn 3 đều được mở.
+6, Đèn 2  đèn 3 đều ở trạng thái bật.
+6, Cả hai đèn 2  đèn 3 đều ở trạng thái hoạt động.
+6, Đèn 2  đèn 3 cùng hoạt động.
+6, Cả hai đèn 2  đèn 3 đều có ánh sáng.
+6, Đèn 2  đèn 3 đều đang chiếu sáng.
+6, Đèn 2  đèn 3 đều đang làm việc.
+6, Chỉ có nguồn sáng hai  ba đang tỏa sáng.
+6, Nguồn sáng 2  3 đang hoạt động  tỏa sáng.
+6, Chỉ có hai nguồn sáng số hai  ba đã được bật  đang phát sáng.
+6, Nguồn sáng số hai  ba đã được kích hoạt  đang sáng.
+6, Chỉ có nguồn sáng hai  ba đang tỏa ra ánh sáng.
+6, Nguồn sáng 2  3 đang tỏa ra ánh sáng.
+6, Nguồn sáng số hai  ba đang tỏa ra đèn sáng.
+6, Chỉ có nguồn sáng hai  ba đang tỏa ra đèn sáng.
+6, Nguồn sáng 2  3 đang tỏa ra đèn sáng.
+6, Chỉ có hai nguồn sáng số hai  ba đã được kích hoạt  đang tỏa ra ánh sáng.
+6, Nguồn sáng số hai  ba đang tỏa ra ánh sáng.
+6, Nguồn sáng 2  3 đang phát ra ánh sáng.
+6, Chỉ có hai nguồn sáng số hai  ba đã bật  đang tỏa ra đèn sáng.
+6, Nguồn sáng số hai  ba đang tỏa ra ánh sáng.
+6, Chỉ có nguồn sáng hai  ba đang tỏa ra đèn sáng.
+6, 2 3 bật 
+6, 2 3 sáng 
+6, 2 3
+6, Turn bật led 2 and led 3 
+6, Mở đèn 2  đèn 3 
+6, Led 2 3 bật
+6, Bật đèn 2  3 cùng lúc
+5, 1 3 bật 
+5, 1 3 sáng
+5, 1 3
+5, Led 1 3 bật
+5, Bật đèn 1  3 cùng lúc
+5, Đèn một  ba đã được bật sáng
+5, Đèn một  ba đang tỏa sáng
+5, Chỉ có nguồn sáng một  ba đang sáng.
+5, Nguồn sáng số một  ba đang phát sáng.
+5, Chỉ có nguồn sáng một  ba đang tỏa sáng.
+5, Nguồn sáng 1  3 đang hoạt động  tỏa sáng.
+5, Chỉ có hai nguồn sáng số một  ba đã được bật  đang phát sáng.
+5, Chỉ có nguồn sáng thứ một  ba đang ở trạng thái hoạt động  phát sáng.
+5, Nguồn sáng số một  ba đã được kích hoạt  đang sáng.
+5, Chỉ có nguồn sáng một  ba đang tỏa ra ánh sáng.
+5, Nguồn sáng 1  3 đang tỏa ra ánh sáng.
+5, Chỉ có hai nguồn sáng thứ một  ba đã được kích hoạt  đang tỏa ra đèn sáng.
+5, Nguồn sáng số một  ba đang tỏa ra đèn sáng.
+5, Chỉ có nguồn sáng một  ba đang tỏa ra đèn sáng.
+5, Nguồn sáng 1  3 đang tỏa ra đèn sáng.
+5, Chỉ có hai nguồn sáng số một  ba đã được kích hoạt  đang tỏa ra ánh sáng.
+5, Nguồn sáng số một  ba đang tỏa ra ánh sáng.
+5, Chỉ có nguồn sáng thứ một  ba đang tỏa ra ánh sáng.
+5, Nguồn sáng 1  3 đang phát ra ánh sáng.
+5, Chỉ có hai nguồn sáng số một  ba đã bật  đang tỏa ra đèn sáng.
+5, Nguồn sáng số một  ba đang tỏa ra ánh sáng.
+5, Chỉ có nguồn sáng một  ba đang tỏa ra đèn sáng.
+5, Chỉ có đèn một  ba đang sáng.
+5, Vui lòng mở LED 1 và LED 3.
+5, Xin hãy bật LED 1 và LED 3.
+5, Mở LED 1 và LED 3 lên giúp tôi.
+5, Làm ơn bật LED 1 và LED 3.
+5, Đề nghị mở LED 1 và LED 3.
+5, Bạn có thể mở LED 1 và LED 3 không?
+5, Vui lòng bật LED 1 và LED 3 giúp tôi.
+5, Vui lòng mở đèn 1 và đèn 3.
+5, Xin hãy bật đèn 1 và đèn 3.
+5, Mở đèn 1 và đèn 3 lên giúp tôi.
+5, Làm ơn bật đèn 1 và đèn 3.
+5, Đề nghị mở đèn 1 và đèn 3.
+5, Bạn có thể mở đèn 1 và đèn 3 không?
+5, Vui lòng bật đèn 1 và đèn 3 giúp tôi.
+5, Hãy mở đèn 1 và đèn 3 lên.
+5, Nhờ bạn mở đèn 1 và đèn 3.
+5, Vui lòng mở nguồn đèn 1 và đèn 3.
+5, Xin hãy mở nguồn đèn 1 và đèn 3.
+5, Mở nguồn đèn 1 và đèn 3 giúp tôi.
+5, Làm ơn bật nguồn đèn 1 và đèn 3.
+5, Đề nghị mở nguồn đèn 1 và đèn 3.
+5, Bạn có thể mở nguồn đèn 1 và đèn 3 không?
+5, Vui lòng bật nguồn đèn 1 và đèn 3 giúp tôi.
+5, Hãy mở nguồn đèn 1 và đèn 3 lên.
+5, Nhờ bạn mở nguồn đèn 1 và đèn 3.
+5, Hãy mở LED 1 và LED 3 lên.
+5, Nhờ bạn mở LED 1 và LED 3.
+5, Đèn số một  ba đang phát sáng.
+5, Chỉ có đèn một  ba đang tỏa sáng.
+5, Đèn 1  3 đang hoạt động  tỏa sáng.
+5, Chỉ có hai đèn số một  ba đã được bật  đang phát sáng.
+5, Chỉ có đèn thứ một  ba đang ở trạng thái hoạt động  phát sáng.
+5, Đèn số một  ba đã được kích hoạt  đang sáng.
+5, Chỉ có đèn một  ba đang tỏa ra ánh sáng.
+5, Đèn 1  3 đang tỏa ra ánh sáng.
+5, Chỉ có hai đèn số một  ba đã được kích hoạt  đang tỏa ra đèn sáng.
+5, Đèn số một  ba đang tỏa ra đèn sáng.
+5, Chỉ có đèn một  ba đang tỏa ra đèn sáng.
+5, Đèn 1  3 đang tỏa ra đèn sáng.
+5, Chỉ có hai đèn số một  ba đã được kích hoạt  đang tỏa ra ánh sáng.
+5, Đèn số một  ba đang tỏa ra ánh sáng.
+5, Chỉ có đèn thứ một  ba đang tỏa ra ánh sáng.
+5, Đèn 1  3 đang phát ra ánh sáng.
+5, Chỉ có hai đèn số một  ba đã bật  đang tỏa ra đèn sáng.
+5, Đèn số một  ba đang tỏa ra ánh sáng.
+5, Chỉ có đèn một  ba đang tỏa ra đèn sáng.
+5, Chỉ có đèn một  ba đang sáng.
+5, Đèn số một  ba đang phát sáng.
+5, Chỉ có đèn một  ba đang tỏa sáng.
+5, Đèn 1  3 đang hoạt động  tỏa sáng.
+5, Chỉ có hai đèn số một  ba đã được bật  đang phát sáng.
+5, Chỉ có đèn thứ một  ba đang ở trạng thái hoạt động  phát sáng.
+5, Đèn số một  ba đã được kích hoạt  đang sáng.
+5, Chỉ có đèn một  ba đang tỏa ra ánh sáng.
+5, Đèn 1  3 đang tỏa ra ánh sáng.
+5, Chỉ có hai đèn số một  ba đã được kích hoạt  đang tỏa ra đèn sáng.
+5, Đèn số một  ba đang tỏa ra đèn sáng.
+5, Chỉ có đèn một  ba đang tỏa ra đèn sáng.
+5, Đèn 1  3 đang tỏa ra đèn sáng.
+5, Chỉ có hai đèn số một  ba đã được kích hoạt  đang tỏa ra ánh sáng.
+5, Đèn số một  ba đang tỏa ra ánh sáng.
+5, Chỉ có đèn thứ một  ba đang tỏa ra ánh sáng.
+5, Đèn 1  3 đang phát ra ánh sáng.
+5, Chỉ có hai đèn số một  ba đã bật  đang tỏa ra đèn sáng.
+5, Đèn số một  ba đang tỏa ra ánh sáng.
+5, Chỉ có đèn một  ba đang tỏa ra đèn sáng.
+5, Đèn 1  đèn 3 đang được bật sáng.
+5, Cả hai đèn 1  đèn 3 đều đang hoạt động.
+5, Đèn 1  đèn 3 đều sáng.
+5, Cả hai đèn 1  đèn 3 đều được mở.
+5, Đèn 1  đèn 3 đều ở trạng thái bật.
+5, Cả hai đèn 1  đèn 3 đều ở trạng thái hoạt động.
+5, Đèn 1  đèn 3 cùng hoạt động.
+5, Cả hai LED một  LED ba đều ở trạng thái hoạt động.
+5, LED một  LED ba cùng hoạt động.
+5, Cả hai LED một  LED ba đều có ánh sáng.
+5, LED một  LED ba đều đang chiếu sáng.
+5, LED một  LED ba đều đang làm việc.
+5, Cả hai LED một  LED ba đều được mở sáng.
+5, LED một  LED ba đều ở trạng thái bật đèn.
+5, Cả hai LED một  LED ba đều đang phát sáng.
+5, LED một  LED ba đều đang hoạt động với ánh sáng.
+5, Cả hai LED một  LED ba đều đang tỏa sáng.
+5, LED một  LED ba đều đang làm việc đúng cách.
+5, Cả hai LED một  LED ba đều đang trong trạng thái hoạt động.
+5, LED một  LED ba đều đang sáng lên.
+5, LED một  LED ba đều được kích hoạt.
+5, Cả hai LED một  LED ba đều bật.
+5, Đèn một  đèn ba đều đang làm việc.
+5, Cả hai đèn một  đèn ba đều được mở sáng.
+5, Đèn một  đèn ba đều ở trạng thái bật đèn.
+5, Cả hai đèn một  đèn ba đều đang phát sáng.
+5, Đèn một  đèn ba đều đang hoạt động với ánh sáng.
+5, Cả hai đèn một  đèn ba đều đang tỏa sáng.
+5, Đèn một  đèn ba đều đang làm việc đúng cách.
+5, Cả hai đèn một  đèn ba đều đang trong trạng thái hoạt động.
+5, Đèn một  đèn ba đều đang sáng lên.
+5, Đèn một  đèn ba đều được kích hoạt.
+5, Cả hai đèn một  đèn ba đều bật.
+5, Cả hai đèn 1  đèn 3 đều có ánh sáng.
+5, Đèn 1  đèn 3 đều đang chiếu sáng.
+5, Đèn 1  đèn 3 đều đang làm việc.
+5, Đèn một  đèn ba đều đang chiếu sáng.
+5, Đèn một  đèn ba đều đang làm việc.
+5, Cả hai đèn một  đèn ba đều được mở sáng.
+5, Đèn một  đèn ba đều ở trạng thái bật đèn.
+5, Cả hai đèn một  đèn ba đều đang phát sáng.
+5, Đèn một  đèn ba đều đang hoạt động với ánh sáng.
+5, Cả hai đèn một  đèn ba đều đang tỏa sáng.
+5, Đèn một  đèn ba đều đang làm việc đúng cách.
+5, Cả hai đèn một  đèn ba đều đang trong trạng thái hoạt động.
+5, Đèn một  đèn ba đều đang sáng lên.
+5, Đèn một  đèn ba đều được kích hoạt.
+5, Cả hai đèn một  đèn ba đều bật.
+5, Kích hoạt cùng lúc đèn 1  ba
+5, Đèn 1  3 đều sáng lên đồng thời
+5, Hãy thắp sáng đèn thứ 1  3 nào
+7, hết bật
+7, 1 2 3
+7, bật hết
+7, Bật đèn số 1, 2  3
+7, Bật tất cả đèn lên
+7, Kích hoạt đèn 1, 2  3
+7, Mở toàn bộ
+7, Bật đèn 1, 2  3 lên
+7, Kích hoạt tất cả các đèn
+7, Bật tất cả đèn số một, hai  ba
+7, Bật lên đèn 1, 2  3
+7, Kích hoạt đèn số một, hai  ba
+7, Mở đèn 1, 2  3
+7, Bật đèn số 1, số 2  số 3 lên
+7, Kích hoạt đèn số một, số hai  số ba
+7, Bật lên tất cả các đèn
+7, Kích hoạt tất cả đèn số một, hai  ba
+7, Bật đèn 1, 2  3 thành trạng thái bật
+7, Kích hoạt đèn 1, 2  3 để chúng sáng
+7, Tất cả các đèn đều đang sáng.
+7, Mọi đèn đều đang phát sáng.
+7, Tất cả các nguồn sáng đều đang hoạt động.
+7, Tất cả các đèn đã được bật  đang chiếu sáng.
+7, Mọi nguồn sáng đều đang phát sáng.
+7, Toàn bộ hệ thống đèn đang sáng.
+7, Tất cả các đèn đang hoạt động  tỏa sáng.
+7, Tất cả đèn đã được kích hoạt  đang sáng.
+7, Mọi đèn đều đang tỏa ra ánh sáng.
+7, Tất cả các đèn đều đang chiếu sáng.
+7, Toàn bộ đèn đều đang phát sáng.
+7, Mọi đèn trong hệ thống đều đang sáng.
+7, Tất cả đèn đã được bật  đang tỏa ra ánh sáng.
+7, Tất cả các đèn trong hệ thống đều đang hoạt động.
+7, Mọi nguồn sáng đã được kích hoạt  đang sáng.
+7, Tất cả các đèn đang tỏa ra ánh sáng.
+7, Tất cả đèn đã được kích hoạt  đang phát sáng.
+7, Mọi đèn đều đang hoạt động  phát ra ánh sáng.
+7, Tất cả các nguồn sáng đều đang phát ra ánh sáng.
+7, Tất cả các đèn đã được bật  đang hoạt động.
+7, Tất cả các led đều đang sáng.
+7, Mọi led đều đang phát sáng.
+7, Tất cả các nguồn sáng led đều đang hoạt động.
+7, Tất cả các led đã được bật  đang chiếu sáng.
+7, Mọi nguồn sáng led đều đang phát sáng.
+7, Toàn bộ hệ thống led đang sáng.
+7, Tất cả các led đang hoạt động  tỏa sáng.
+7, Tất cả led đã được kích hoạt  đang sáng.
+7, Mọi led đều đang tỏa ra ánh sáng.
+7, Tất cả các led đều đang chiếu sáng.
+7, Toàn bộ led đều đang phát sáng.
+7, Mọi led trong hệ thống đều đang sáng.
+7, Tất cả led đã được bật  đang tỏa ra ánh sáng.
+7, Tất cả các led trong hệ thống đều đang hoạt động.
+7, Mọi nguồn sáng led đã được kích hoạt  đang sáng.
+7, Tất cả các led đang tỏa ra ánh sáng.
+7, Tất cả led đã được kích hoạt  đang phát sáng.
+7, Mọi led đều đang hoạt động  phát ra ánh sáng.
+7, Tất cả các nguồn sáng led đều đang phát ra ánh sáng.
+7, Tất cả các led đã được bật  đang hoạt động.
+7, Chỉ có đèn một, hai  ba đang sáng.
+7, Đèn số một, hai  ba đang phát sáng.
+7, Chỉ có đèn một, hai  ba đang tỏa sáng.
+7, Đèn 1, 2  3 đang hoạt động  tỏa sáng.
+7, Chỉ có ba đèn số một, hai  ba đã được bật  đang phát sáng.
+7, Chỉ có đèn thứ một, hai  ba đang ở trạng thái hoạt động  phát sáng.
+7, Đèn số một, hai  ba đã được kích hoạt  đang sáng.
+7, Chỉ có đèn một, hai  ba đang tỏa ra ánh sáng.
+7, Đèn 1, 2  3 đang tỏa ra ánh sáng.
+7, Chỉ có ba đèn số một, hai  ba đã được kích hoạt  đang tỏa ra đèn sáng.
+7, Đèn số một, hai  ba đang tỏa ra đèn sáng.
+7, Chỉ có đèn một, hai  ba đang tỏa ra đèn sáng.
+7, Đèn 1, 2  3 đang tỏa ra đèn sáng.
+7, Chỉ có ba đèn số một, hai  ba đã được kích hoạt  đang tỏa ra ánh sáng.
+7, Đèn số một, hai  ba đang tỏa ra ánh sáng.
+7, Chỉ có đèn thứ một, hai  ba đang tỏa ra ánh sáng.
+7, Đèn 1, 2  3 đang phát ra ánh sáng.
+7, Chỉ có ba đèn số một, hai  ba đã bật  đang tỏa ra đèn sáng.
+7, Đèn số một, hai  ba đang tỏa ra ánh sáng.
+7, Chỉ có đèn một, hai  ba đang tỏa ra đèn sáng.
+7, Đèn 1, đèn 2  đèn 3 đều được bật sáng.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều đang hoạt động.
+7, Đèn 1, đèn 2  đèn 3 đều sáng.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều được mở.
+7, Đèn 1, đèn 2  đèn 3 đều ở trạng thái bật.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều ở trạng thái hoạt động.
+7, Đèn 1, đèn 2  đèn 3 cùng hoạt động.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều có ánh sáng.
+7, Đèn 1, đèn 2  đèn 3 đều đang chiếu sáng.
+7, Đèn 1, đèn 2  đèn 3 đều đang làm việc.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều được mở sáng.
+7, Đèn 1, đèn 2  đèn 3 đều ở trạng thái bật đèn.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều đang phát sáng.
+7, Đèn 1, đèn 2  đèn 3 đều đang hoạt động với ánh sáng.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều đang tỏa sáng.
+7, Đèn 1, đèn 2  đèn 3 đều đang làm việc đúng cách.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều đang trong trạng thái hoạt động.
+7, Đèn 1, đèn 2  đèn 3 đều đang sáng lên.
+7, Đèn 1, đèn 2  đèn 3 đều được kích hoạt.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều bật.
+7, 1 2 3 bật 
+7, Mở đèn 1 2 3
+7, Mở toàn bộ
+7, Mở tất cả đèn
+7, Mở đèn 1  đèn 2  đèn 3 
+7, Mở toàn bộ đèn
+7, Led 1 2 3 bật
+7, Go bật 1 2 3 
+7, 1 2 3 hoạt động
+7, 1 2 3 lên đèn
+7, 1 2 3 sáng
+7, Toàn bộ sáng
+7, tất cả đèn sáng
+7, Tất cả led sáng
+7, Chỉ có led một, hai  ba đang sáng.
+7, Led số một, hai  ba đang phát sáng.
+7, Chỉ có led một, hai  ba đang tỏa sáng.
+7, Led 1, 2  3 đang hoạt động  tỏa sáng.
+7, Chỉ có ba led số một, hai  ba đã được bật  đang phát sáng.
+7, Chỉ có led thứ một, hai  ba đang ở trạng thái hoạt động  phát sáng.
+7, Led số một, hai  ba đã được kích hoạt  đang sáng.
+7, Chỉ có led một, hai  ba đang tỏa ra ánh sáng.
+7, Led 1, 2  3 đang tỏa ra ánh sáng.
+7, Chỉ có ba led số một, hai  ba đã được kích hoạt  đang tỏa ra đèn sáng.
+7, Led số một, hai  ba đang tỏa ra đèn sáng.
+7, Chỉ có led một, hai  ba đang tỏa ra đèn sáng.
+7, Led 1, 2  3 đang tỏa ra đèn sáng.
+7, Chỉ có ba led số một, hai  ba đã được kích hoạt  đang tỏa ra ánh sáng.
+7, Led số một, hai  ba đang tỏa ra ánh sáng.
+7, Chỉ có led thứ một, hai  ba đang tỏa ra ánh sáng.
+7, Led 1, 2  3 đang phát ra ánh sáng.
+7, Chỉ có ba led số một, hai  ba đã bật  đang tỏa ra đèn sáng.
+7, Led số một, hai  ba đang tỏa ra ánh sáng.
+7, Chỉ có led một, hai  ba đang tỏa ra đèn sáng.
+7, Chỉ có nguồn sáng một, hai  ba đang sáng.
+7, Nguồn sáng số một, hai  ba đang phát sáng.
+7, Chỉ có nguồn sáng một, hai  ba đang tỏa sáng.
+7, Nguồn sáng 1, 2  3 đang hoạt động  tỏa sáng.
+7, Chỉ có ba nguồn sáng số một, hai  ba đã được bật  đang phát sáng.
+7, Chỉ có nguồn sáng thứ một, hai  ba đang ở trạng thái hoạt động  phát sáng.
+7, Nguồn sáng số một, hai  ba đã được kích hoạt  đang sáng.
+7, Chỉ có nguồn sáng một, hai  ba đang tỏa ra ánh sáng.
+7, Nguồn sáng 1, 2  3 đang tỏa ra ánh sáng.
+7, Chỉ có ba nguồn sáng số một, hai  ba đã được kích hoạt  đang tỏa ra đèn sáng.
+7, Nguồn sáng số một, hai  ba đang tỏa ra đèn sáng.
+7, Chỉ có nguồn sáng một, hai  ba đang tỏa ra đèn sáng.
+7, Nguồn sáng 1, 2  3 đang tỏa ra đèn sáng.
+7, Chỉ có ba nguồn sáng số một, hai  ba đã được kích hoạt  đang tỏa ra ánh sáng.
+7, Nguồn sáng số một, hai  ba đang tỏa ra ánh sáng.
+7, Chỉ có nguồn sáng thứ một, hai  ba đang tỏa ra ánh sáng.
+7, Nguồn sáng 1, 2  3 đang phát ra ánh sáng.
+7, Chỉ có ba nguồn sáng số một, hai  ba đã bật  đang tỏa ra đèn sáng.
+7, Đèn 1, đèn 2  đèn 3 đều đang làm việc.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều được mở sáng.
+7, Đèn 1, đèn 2  đèn 3 đều ở trạng thái bật đèn.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều đang phát sáng.
+7, Đèn 1, đèn 2  đèn 3 đều đang hoạt động với ánh sáng.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều đang tỏa sáng.
+7, Đèn 1, đèn 2  đèn 3 đều đang làm việc đúng cách.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều đang trong trạng thái hoạt động.
+7, Đèn 1, đèn 2  đèn 3 đều đang sáng lên.
+7, Đèn 1, đèn 2  đèn 3 đều được kích hoạt.
+7, Cả ba đèn 1, đèn 2  đèn 3 đều bật.
+7, Led 1, led 2  led 3 cùng hoạt động.
+7, Cả ba led 1, led 2  led 3 đều có ánh sáng.
+7, Led 1, led 2  led 3 đều đang chiếu sáng.
+7, Led 1, led 2  led 3 đều đang làm việc.
+7, Cả ba led 1, led 2  led 3 đều được mở sáng.
+7, Led 1, led 2  led 3 đều ở trạng thái bật đèn.
+7, Cả ba led 1, led 2  led 3 đều đang phát sáng.
+7, Led 1, led 2  led 3 đều đang hoạt động với ánh sáng.
+7, Cả ba led 1, led 2  led 3 đều đang tỏa sáng.
+7, Led 1, led 2  led 3 đều đang làm việc đúng cách.
+7, Cả ba led 1, led 2  led 3 đều đang trong trạng thái hoạt động.
+7, Led 1, led 2  led 3 đều đang sáng lên.
+7, Led 1, led 2  led 3 đều được kích hoạt.
+7, Cả ba led 1, led 2  led 3 đều bật.
+7, Led một, led hai  led ba đều đang chiếu sáng.
+7, Led một, led hai  led ba đều đang làm việc.
+7, Cả ba led một, led hai  led ba đều được mở sáng.
+7, Led một, led hai  led ba đều ở trạng thái bật đèn.
+7, Cả ba led một, led hai  led ba đều đang phát sáng.
+7, Led một, led hai  led ba đều đang hoạt động với ánh sáng.
+7, Cả ba led một, led hai  led ba đều đang tỏa sáng.
+7, Led một, led hai  led ba đều đang làm việc đúng cách.
+7, Cả ba led một, led hai  led ba đều đang trong trạng thái hoạt động.
+7, Led một, led hai  led ba đều đang sáng lên.
+7, Led một, led hai  led ba đều được kích hoạt.
+7, Cả ba led một, led hai  led ba đều bật.
+7, Cả ba đèn một, đèn hai  đèn ba đều có ánh sáng.
+7, Đèn một, đèn hai  đèn ba đều đang chiếu sáng.
+7, Đèn một, đèn hai  đèn ba đều đang làm việc.
+7, Cả ba đèn một, đèn hai  đèn ba đều được mở sáng.
+7, Đèn một, đèn hai  đèn ba đều ở trạng thái bật đèn.
+7, Cả ba đèn một, đèn hai  đèn ba đều đang phát sáng.
+7, Đèn một, đèn hai  đèn ba đều đang hoạt động với ánh sáng.
+7, Cả ba đèn một, đèn hai  đèn ba đều đang tỏa sáng.
+7, Đèn một, đèn hai  đèn ba đều đang làm việc đúng cách.
+7, Cả ba đèn một, đèn hai  đèn ba đều đang trong trạng thái hoạt động.
+7, Đèn một, đèn hai  đèn ba đều đang sáng lên.
+7, Đèn một, đèn hai  đèn ba đều được kích hoạt.
+7, Cả ba đèn một, đèn hai  đèn ba đều bật.
+2, hãy mở đèn 2 đi
+2, hãy mở đèn 2 đi mà
+2, hãy mở đèn 2 đi nhé 
+1, mở đèn 1 đi 
+1, hãy mở đèn 1 đi 
+1, mở đèn 1 đi mà
+1, Chỉ có nguồn sáng một đang sáng.
+1, Nguồn sáng số một đang phát sáng.
+1, Chỉ có nguồn sáng một đang tỏa sáng.
+1, Nguồn sáng 1 đang hoạt động  tỏa sáng.
+1, Chỉ có nguồn sáng số một đã được bật  đang phát sáng.
+1, Chỉ có nguồn sáng thứ một đang ở trạng thái hoạt động  phát sáng.
+1, Nguồn sáng số một đã được kích hoạt  đang sáng.
+1, Chỉ có nguồn sáng một đang tỏa ra ánh sáng.
+1, Nguồn sáng 1 đang tỏa ra ánh sáng.
+1, Chỉ có nguồn sáng số một đã được kích hoạt  đang tỏa ra đèn sáng.
+1, Nguồn sáng số một đang tỏa ra đèn sáng.
+1, Chỉ có nguồn sáng một đang tỏa ra đèn sáng.
+1, Nguồn sáng 1 đang tỏa ra đèn sáng.
+1, Chỉ có nguồn sáng số một đã được kích hoạt  đang tỏa ra ánh sáng.
+1, Nguồn sáng số một đang tỏa ra ánh sáng.
+1, Chỉ có nguồn sáng thứ một đang tỏa ra ánh sáng.
+1, Nguồn sáng 1 đang phát ra ánh sáng.
+1, Chỉ có nguồn sáng số một đã bật  đang tỏa ra đèn sáng.
+1, Nguồn sáng số một đang tỏa ra ánh sáng.
+1, Chỉ có nguồn sáng một đang tỏa ra đèn sáng.
+1, Chỉ có đèn một đang sáng.
+1, Đèn số một đang phát sáng.
+1, Chỉ có đèn một đang tỏa sáng.
+1, Đèn 1 đang hoạt động  tỏa sáng.
+1, Chỉ có đèn số một đã được bật  đang phát sáng.
+1, Chỉ có đèn thứ một đang ở trạng thái hoạt động  phát sáng.
+1, Đèn số một đã được kích hoạt  đang sáng.
+1, Chỉ có đèn một đang tỏa ra ánh sáng.
+1, Đèn 1 đang tỏa ra ánh sáng.
+1, Chỉ có đèn số một đã được kích hoạt  đang tỏa ra đèn sáng.
+1, Đèn số một đang tỏa ra đèn sáng.
+1, Chỉ có đèn một đang tỏa ra đèn sáng.
+1, Đèn 1 đang tỏa ra đèn sáng.
+1, Chỉ có đèn số một đã được kích hoạt  đang tỏa ra ánh sáng.
+1, Đèn số một đang tỏa ra ánh sáng.
+1, Chỉ có đèn thứ một đang tỏa ra ánh sáng.
+1, Đèn 1 đang phát ra ánh sáng.
+1, Chỉ có đèn số một đã bật  đang tỏa ra đèn sáng.
+1, Đèn số một đang tỏa ra ánh sáng.
+1, Chỉ có đèn một đang tỏa ra đèn sáng.
+1, Chỉ có led một đang sáng.
+1, Led số một đang phát sáng.
+1, Chỉ có led một đang tỏa sáng.
+1, Led 1 đang hoạt động  tỏa sáng.
+1, Chỉ có led số một đã được bật  đang phát sáng.
+1, Chỉ có led thứ một đang ở trạng thái hoạt động  phát sáng.
+1, Led số một đã được kích hoạt  đang sáng.
+1, Chỉ có led một đang tỏa ra ánh sáng.
+1, Led 1 đang tỏa ra ánh sáng.
+1, Chỉ có led số một đã được kích hoạt  đang tỏa ra đèn sáng.
+1, Led số một đang tỏa ra đèn sáng.
+1, Chỉ có led một đang tỏa ra đèn sáng.
+1, Led 1 đang tỏa ra đèn sáng.
+1, Chỉ có led số một đã được kích hoạt  đang tỏa ra ánh sáng.
+1, Led số một đang tỏa ra ánh sáng.
+1, Chỉ có led thứ một đang tỏa ra ánh sáng.
+1, Led 1 đang phát ra ánh sáng.
+1, Chỉ có led số một đã bật  đang tỏa ra đèn sáng.
+1, Led số một đang tỏa ra ánh sáng.
+1, Chỉ có led một đang tỏa ra đèn sáng.
+7, Mở led hết lên nào.
+7, Mở đèn hết lên nào.
+7, Mở mọi nguồn sáng hết lên nào
+7, Mở led hết lên nào.
+7, Mở đèn hết lên nào.
+7, Mở mọi nguồn sáng hết lên nào1
+1, Hãy sáng đèn 1 sáng
+1, Hãy sáng đèn 1 
+1, Hãy sáng đèn một
+6, Chỉ có đèn hai  ba đang sáng.
+6, Đèn số hai  ba đang phát sáng.
+6, Chỉ có đèn hai  ba đang tỏa sáng.
+6, Đèn 2 3 đang hoạt động  tỏa sáng.
+6, Chỉ có hai đèn số hai  ba đã được bật  đang phát sáng.
+6, Chỉ có đèn hai  ba đang ở trạng thái hoạt động  phát sáng.
+6, Đèn số hai  ba đã được kích hoạt  đang sáng.
+6, Chỉ có đèn hai  ba đang tỏa ra ánh sáng.
+6, Đèn 2 3 đang tỏa ra ánh sáng.
+6, Chỉ có hai đèn số hai  ba đã được kích hoạt  đang tỏa ra đèn sáng.
+6, Đèn số hai ba đang tỏa ra đèn sáng.
+6, Chỉ có đèn hai  ba đang tỏa ra đèn sáng.
+6, Đèn 2 3 đang tỏa ra đèn sáng.
+6, Chỉ có hai đèn số hai  ba đã được kích hoạt  đang tỏa ra ánh sáng.
+6, Đèn số hai  ba đang tỏa ra ánh sáng.
+6, Chỉ có đèn hai  ba đang tỏa ra ánh sáng.
+6, Đèn 2 3 đang phát ra ánh sáng.
+6, Chỉ có hai đèn số hai  ba đã bật  đang tỏa ra đèn sáng.
+6, Đèn số hai ba đang tỏa ra ánh sáng.
+6, Chỉ có đèn hai ba đang tỏa ra đèn sáng.
+5, Đèn 1  đèn 3 đều được bật sáng.
+5, Cả hai đèn 1  đèn 3 đều đang hoạt động.
+5, Đèn 1  đèn 3 đều sáng.
+5, Cả hai đèn 1  đèn 3 đều được mở.
+5, Đèn 1  đèn 3 đều ở trạng thái bật.
+5, Cả hai đèn 1  đèn 3 đều ở trạng thái hoạt động.
+5, Đèn 1  3 cùng hoạt động.
+5, Cả hai đèn 1  3 đều có ánh sáng.
+5, Đèn 1 đèn 3 đều đang chiếu sáng.
+5, Đèn 1  3 đều đang làm việc.
+5, Cả hai đèn 1 3 đều được mở sáng.
+5, Đèn 1 3 đều ở trạng thái bật đèn.
+5, Cả hai đèn 1 3 đều đang phát sáng.
+5, Đèn 1 3 đều đang hoạt động với ánh sáng.
+5, Cả hai đèn 1 3 đều đang tỏa sáng.
+5, Đèn 1 3 đều đang làm việc đúng cách.
+5, Cả hai đèn 1 3 đều đang trong trạng thái hoạt động.
+5, Đèn 1 3 đều đang sáng lên.
+5, Đèn 1 3 đều được kích hoạt.
+5, Cả hai đèn 1 3 đều bật.
+4, Đèn 1 2 đều được bật sáng.
+4, Cả hai đèn 1 2 đều đang hoạt động.
+4, Đèn 1 2 đều sáng.
+4, Cả hai đèn 1 2 đều được mở.
+4, Đèn 1 2 đều ở trạng thái bật.
+4, Cả hai đèn 1 2 đều ở trạng thái hoạt động.
+4, Đèn 1 2 cùng hoạt động.
+4, Cả hai đèn 1 2 đều có ánh sáng.
+4, Đèn 1 2 đều đang chiếu sáng.
+4, Đèn 1 2 đều đang làm việc.
+4, Cả hai đèn 1 2 đều được mở sáng.
+4, Đèn 1 2 đều ở trạng thái bật đèn.
+4, Cả hai đèn 1 2 đều đang phát sáng.
+4, Đèn 1 2 đều đang hoạt động với ánh sáng.
+4, Cả hai đèn 1 2 đều đang tỏa sáng.
+4, Đèn 1 2 đều đang làm việc đúng cách.
+4, Cả hai đèn 1 2 đều đang trong trạng thái hoạt động.
+4, Đèn 1 2 đều đang sáng lên.
+4, Đèn 1 2 đều được kích hoạt.
+4, Cả hai đèn 1 2 đều bật.
+1, Bật lên đèn 1
+1, Mở đèn 1 
+1, Mở đèn 1 nào
+1, Bật lên đèn 1
+1, Mở đèn 1 
+1, Mở đèn 1 nào
+7, Vui lòng bật hết đèn.
+7, Xin hãy mở hết đèn.
+7, Mở hết đèn lên giúp tôi.
+7, Làm ơn bật hết đèn.
+7, Đề nghị mở hết đèn.
+7, Bạn có thể bật hết đèn không?
+7, Vui lòng mở hết đèn giúp tôi.
+7, Hãy bật hết đèn lên.
+7, Làm ơn mở hết đèn.
+7, Nhờ bạn bật hết đèn.
+7, Vui lòng bật hết LED.
+7, Xin hãy mở hết LED.
+7, Mở hết LED lên giúp tôi.
+7, Làm ơn bật hết LED.
+7, Đề nghị mở hết LED.
+7, Bạn có thể bật hết LED không?
+7, Vui lòng mở hết LED giúp tôi.
+7, Hãy bật hết LED lên.
+7, Làm ơn mở hết LED.
+7, Nhờ bạn bật hết LED.
+7, Vui lòng bật toàn bộ LED.
+7, Xin hãy mở toàn bộ LED.
+7, Mở toàn bộ LED lên giúp tôi.
+7, Làm ơn bật toàn bộ LED.
+7, Đề nghị mở toàn bộ LED.
+7, Bạn có thể bật toàn bộ LED không?
+7, Vui lòng mở toàn bộ LED giúp tôi.
+7, Hãy bật toàn bộ LED lên.
+7, Làm ơn mở toàn bộ LED.
+7, Nhờ bạn bật toàn bộ LED.
+7, Vui lòng bật tất cả LED.
+7, Xin hãy mở tất cả LED.
+7, Mở tất cả LED lên giúp tôi.
+7, Làm ơn bật tất cả LED.
+7, Đề nghị mở tất cả LED.
+7, Bạn có thể bật tất cả LED không?
+7, Vui lòng mở tất cả LED giúp tôi.
+7, Hãy bật tất cả LED lên.
+7, Làm ơn mở tất cả LED.
+7, Nhờ bạn bật tất cả LED.
+7, Vui lòng bật tất cả đèn.
+7, Xin hãy mở tất cả đèn.
+7, Mở tất cả đèn lên giúp tôi.
+7, Làm ơn bật tất cả đèn.
+7, Đề nghị mở tất cả đèn.
+7, Bạn có thể bật tất cả đèn không?
+7, Vui lòng mở tất cả đèn giúp tôi.
+7, Hãy bật tất cả đèn lên.
+7, Làm ơn mở tất cả đèn.
+7, Nhờ bạn bật tất cả đèn.
+7, Vui lòng bật toàn bộ đèn.
+7, Xin hãy mở toàn bộ đèn.
+7, Mở toàn bộ đèn lên giúp tôi.
+7, Làm ơn bật toàn bộ đèn.
+7, Đề nghị mở toàn bộ đèn.
+7, Bạn có thể bật toàn bộ đèn không?
+7, Vui lòng mở toàn bộ đèn giúp tôi.
+7, Hãy bật toàn bộ đèn lên.
+7, Làm ơn mở toàn bộ đèn.
+7, Nhờ bạn bật toàn bộ đèn.
+7, Vui lòng mở đèn 1 và đèn 2 và đèn 3.
+7, Xin hãy bật đèn 1 và đèn 2 và đèn 3.
+7, Mở đèn 1 và đèn 2 và đèn 3 lên giúp tôi.
+7, Làm ơn bật đèn 1 và đèn 2 và đèn 3.
+7, Đề nghị mở đèn 1 và đèn 2 và đèn 3.
+7, Bạn có thể mở đèn 1 và đèn 2 và đèn 3 không?
+7, Vui lòng bật đèn 1 và đèn 2 và đèn 3 giúp tôi.
+7, Hãy mở đèn 1 và đèn 2 và đèn 3 lên.
+7, Nhờ bạn mở đèn 1 và đèn 2 và đèn 3.
+7, Làm ơn mở toàn bộ đèn 1 và đèn 2 và đèn 3.
+7, Mở đèn 1 và đèn 2 và đèn 3 lên đi.
+7, Bạn bật đèn 1 và đèn 2 và đèn 3 được không?
+7, Vui lòng kích hoạt đèn 1 và đèn 2 và đèn 3.
+7, Mở đèn 1 và đèn 2 và đèn 3 ngay bây giờ.
+7, Xin hãy mở đèn 1 và đèn 2 và đèn 3 ngay.
+7, Vui lòng mở nguồn đèn 1 và đèn 2 và đèn 3.
+7, Xin hãy mở nguồn đèn 1 và đèn 2 và đèn 3.
+7, Mở nguồn đèn 1 và đèn 2 và đèn 3 giúp tôi.
+7, Làm ơn bật nguồn đèn 1 và đèn 2 và đèn 3.
+7, Đề nghị mở nguồn đèn 1 và đèn 2 và đèn 3.
+7, Bạn có thể mở nguồn đèn 1 và đèn 2 và đèn 3 không?
+7, Vui lòng bật nguồn đèn 1 và đèn 2 và đèn 3 giúp tôi.
+7, Hãy mở nguồn đèn 1 và đèn 2 và đèn 3 lên.
+7, Nhờ bạn mở nguồn đèn 1 và đèn 2 và đèn 3.
+7, Làm ơn mở toàn bộ nguồn đèn 1 và đèn 2 và đèn 3.
+7, Hãy mở tất cả đèn.
+7, Vui lòng mở tất cả đèn lên.
+7, Xin hãy mở tất cả đèn.
+7, Mở tất cả đèn giúp tôi.
+7, Làm ơn mở tất cả đèn đi.
+7, Đề nghị mở tất cả đèn.
+7, Bạn có thể mở tất cả đèn không?
+7, Vui lòng mở tất cả đèn lên giúp tôi.
+7, Hãy mở tất cả đèn lên ngay.
+7, Nhờ bạn mở tất cả đèn.
+7, Làm ơn mở tất cả đèn ngay.
+7, Mở tất cả đèn lên đi.
+7, Đề nghị mở tất cả đèn ngay.
+7, Bạn có thể mở tất cả đèn giúp tôi không?
+7, Hãy mở tất cả đèn đi nào.
+7, Xin hãy mở tất cả đèn ngay.
+7, Mở tất cả đèn lên đi.
+7, Nhờ bạn mở tất cả đèn giúp.
+7, Làm ơn mở tất cả đèn ngay bây giờ.
+7, Mở tất cả nguồn đèn.
+7, Xin hãy mở tất cả đèn lên.
+7, Hãy mở tất cả đèn đi ngay.
+7, Đề nghị mở tất cả nguồn đèn.
+7, Bạn có thể mở tất cả đèn không?
+7, Vui lòng mở tất cả nguồn đèn.
+7, Mở tất cả đèn ngay bây giờ.
+7, Làm ơn mở tất cả đèn ngay.
+7, Hãy mở tất cả đèn ngay đi.
+7, Nhờ bạn mở tất cả đèn giúp tôi.
+7, Xin hãy mở tất cả đèn đi ngay.
+7, Mở tất cả nguồn đèn giúp tôi.
+7, Hãy mở tất cả đèn ngay bây giờ.
+7, Đề nghị mở tất cả đèn ngay.
+7, Bạn có thể mở tất cả đèn lên không?
+7, Vui lòng mở tất cả đèn ngay bây giờ.
+7, Mở tất cả đèn lên đi nào.
+7, Xin hãy mở tất cả đèn ngay lập tức.
+7, Mở tất cả đèn ngay.
+7, Làm ơn mở tất cả đèn ngay lập tức.
+7, Hãy mở tất cả đèn đi nào.
+7, Nhờ bạn mở tất cả đèn đi.
+7, Xin hãy mở tất cả đèn lên.
+7, Mở tất cả nguồn đèn ngay.
+7, Đề nghị mở tất cả đèn ngay lập tức.
+7, Bạn có thể mở tất cả đèn ngay không?
+7, Vui lòng mở tất cả đèn lên đi.
+7, Mở tất cả đèn ngay lập tức.
+7, Làm ơn mở tất cả đèn ngay.
+7, Hãy mở tất cả đèn ngay lập tức.
+7, Hãy mở tất cả đèn đi nào.
+7, Nhờ bạn mở tất cả đèn đi.
+7, Xin hãy mở tất cả đèn lên.
+7, Mở tất cả nguồn đèn ngay.
+7, Đề nghị mở tất cả đèn ngay lập tức.
+7, Bạn có thể mở tất cả đèn ngay không?
+7, Vui lòng mở tất cả đèn lên đi.
+7, Mở tất cả đèn ngay lập tức.
+7, Làm ơn mở tất cả đèn ngay.
+7, Hãy mở tất cả đèn ngay lập tức.
+7, Nhờ bạn mở tất cả nguồn đèn.
+7, Hãy mở hết đèn.
+7, Vui lòng mở hết đèn lên.
+7, Xin hãy mở hết đèn.
+7, Mở hết đèn giúp tôi.
+7, Làm ơn mở hết đèn đi.
+7, Đề nghị mở hết đèn.
+7, Bạn có thể mở hết đèn không?
+7, Vui lòng mở hết đèn lên giúp tôi.
+7, Hãy mở hết đèn lên ngay.
+7, Nhờ bạn mở hết đèn.
+7, Làm ơn mở hết đèn ngay.
+7, Mở hết đèn lên đi.
+7, Đề nghị mở hết đèn ngay.
+7, Bạn có thể mở hết đèn giúp tôi không?
+7, Hãy mở hết đèn đi nào.
+7, Xin hãy mở hết đèn ngay.
+7, Mở hết đèn lên đi.
+7, Nhờ bạn mở hết đèn giúp.
+7, Làm ơn mở hết đèn ngay bây giờ.
+7, Mở hết nguồn đèn.
+7, Xin hãy mở hết đèn lên.
+7, Hãy mở hết đèn đi ngay.
+7, Đề nghị mở hết nguồn đèn.
+7, Bạn có thể mở hết đèn không?
+7, Vui lòng mở hết nguồn đèn.
+7, Mở hết đèn ngay bây giờ.
+7, Làm ơn mở hết đèn ngay.
+7, Hãy mở hết đèn ngay đi.
+7, Nhờ bạn mở hết đèn giúp tôi.
+7, Xin hãy mở hết đèn đi ngay.
+7, Mở hết nguồn đèn giúp tôi.
+7, Hãy mở hết đèn ngay bây giờ.
+7, Đề nghị mở hết đèn ngay.
+7, Bạn có thể mở hết đèn lên không?
+7, Vui lòng mở hết đèn ngay bây giờ.
+7, Mở hết đèn lên đi nào.
+7, Xin hãy mở hết đèn ngay lập tức.
+7, Mở hết đèn ngay.
+7, Làm ơn mở hết đèn ngay lập tức.
+7, Hãy mở hết đèn đi nào.
+7, Nhờ bạn mở hết đèn đi.
+7, Xin hãy mở hết đèn lên.
+7, Nhờ bạn mở hết đèn giúp tôi.
+7, Xin hãy mở hết đèn đi ngay.
+7, Mở hết nguồn đèn giúp tôi.
+7, Hãy mở hết đèn ngay bây giờ.
+7, Đề nghị mở hết đèn ngay.
+7, Bạn có thể mở hết đèn lên không?
+7, Vui lòng mở hết đèn ngay bây giờ.
+7, Mở hết đèn lên đi nào.
+7, Xin hãy mở hết đèn ngay lập tức.
+7, Mở hết đèn ngay.
+7, Làm ơn mở hết đèn ngay lập tức.
+7, Hãy mở hết đèn đi nào.
+7, Nhờ bạn mở hết đèn đi.
+7, Xin hãy mở hết đèn lên.
+7, Mở hết nguồn đèn ngay.
+7, Đề nghị mở hết đèn ngay lập tức.
+7, Bạn có thể mở hết đèn ngay không?
+7, Vui lòng mở hết đèn lên đi.
+7, Mở hết đèn ngay lập tức.
+7, Làm ơn mở hết đèn ngay.
+7, Hãy mở hết đèn ngay lập tức.
+7, Nhờ bạn mở hết nguồn đèn.
+7, Hãy mở toàn bộ đèn.
+7, Vui lòng mở toàn bộ đèn lên.
+7, Xin hãy mở toàn bộ đèn.
+7, Mở toàn bộ đèn giúp tôi.
+7, Làm ơn mở toàn bộ đèn đi.
+7, Đề nghị mở toàn bộ đèn.
+7, Bạn có thể mở toàn bộ đèn không?
+7, Vui lòng mở toàn bộ đèn lên giúp tôi.
+7, Hãy mở toàn bộ đèn lên ngay.
+7, Nhờ bạn mở toàn bộ đèn.
+7, Làm ơn mở toàn bộ đèn ngay.
+7, Mở toàn bộ đèn lên đi.
+7, Đề nghị mở toàn bộ đèn ngay.
+7, Bạn có thể mở toàn bộ đèn giúp tôi không?
+7, Hãy mở toàn bộ đèn đi nào.
+7, Xin hãy mở toàn bộ đèn ngay.
+7, Mở toàn bộ đèn lên đi.
+7, Nhờ bạn mở toàn bộ đèn giúp.
+7, Làm ơn mở toàn bộ đèn ngay bây giờ.
+7, Mở toàn bộ nguồn đèn.
+7, Xin hãy mở toàn bộ đèn lên.
+7, Hãy mở toàn bộ đèn đi ngay.
+7, Đề nghị mở toàn bộ nguồn đèn.
+7, Bạn có thể mở toàn bộ đèn không?
+7, Vui lòng mở toàn bộ nguồn đèn.
+7, Mở toàn bộ đèn ngay bây giờ.
+7, Làm ơn mở toàn bộ đèn ngay.
+7, Hãy mở toàn bộ đèn ngay đi.
+7, Nhờ bạn mở toàn bộ đèn giúp tôi.
+7, Xin hãy mở toàn bộ đèn đi ngay.
+7, Mở toàn bộ nguồn đèn giúp tôi.
+7, Hãy mở toàn bộ đèn ngay bây giờ.
+7, Đề nghị mở toàn bộ đèn ngay.
+7, Bạn có thể mở toàn bộ đèn lên không?
+7, Vui lòng mở toàn bộ đèn ngay bây giờ.
+7, Mở toàn bộ đèn lên đi nào.
+7, Xin hãy mở toàn bộ đèn ngay lập tức.
+7, Mở toàn bộ đèn ngay.
+7, Làm ơn mở toàn bộ đèn ngay lập tức.
+7, Hãy mở toàn bộ đèn đi nào.
+7, Nhờ bạn mở toàn bộ đèn đi.
+7, Xin hãy mở toàn bộ đèn lên.
+7, Mở toàn bộ nguồn đèn ngay.
+7, Đề nghị mở toàn bộ đèn ngay lập tức.
+7, Bạn có thể mở toàn bộ đèn ngay không?
+7, Vui lòng mở toàn bộ đèn lên đi.
+7, Mở toàn bộ đèn ngay lập tức.
+7, Làm ơn mở toàn bộ đèn ngay.
+7, Hãy mở toàn bộ đèn ngay lập tức.
+7, Nhờ bạn mở toàn bộ nguồn đèn.
+7, Xin hãy mở toàn bộ đèn lên.
+7, Hãy mở toàn bộ đèn đi ngay.
+7, Đề nghị mở toàn bộ nguồn đèn.
+7, Bạn có thể mở toàn bộ đèn không?
+7, Vui lòng mở toàn bộ nguồn đèn.
+7, Mở toàn bộ đèn ngay bây giờ.
+7, Làm ơn mở toàn bộ đèn ngay.
+7, Hãy mở toàn bộ đèn ngay đi.
+7, Nhờ bạn mở toàn bộ đèn giúp tôi.
+7, Xin hãy mở toàn bộ đèn đi ngay.
+7, Mở toàn bộ nguồn đèn giúp tôi.
+7, Hãy mở toàn bộ đèn ngay bây giờ.
+7, Đề nghị mở toàn bộ đèn ngay.
+7, Bạn có thể mở toàn bộ đèn lên không?
+7, Vui lòng mở toàn bộ đèn ngay bây giờ.
+7, Mở toàn bộ đèn lên đi nào.
+7, Xin hãy mở toàn bộ đèn ngay lập tức.
+7, Mở toàn bộ đèn ngay.
+7, Làm ơn mở toàn bộ đèn ngay lập tức.
+7, Hãy mở toàn bộ đèn đi nào.
+7, Nhờ bạn mở toàn bộ đèn đi.
+7, Xin hãy mở toàn bộ đèn lên.
+7, Mở toàn bộ nguồn đèn ngay.
+7, Đề nghị mở toàn bộ đèn ngay lập tức.
+7, Bạn có thể mở toàn bộ đèn ngay không?
+7, Vui lòng mở toàn bộ đèn lên đi.
+7, Mở toàn bộ đèn ngay lập tức.
+7, Làm ơn mở toàn bộ đèn ngay.
+7, Hãy mở toàn bộ đèn ngay lập tức.
+7, Nhờ bạn mở toàn bộ nguồn đèn.
